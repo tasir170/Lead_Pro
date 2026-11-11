@@ -1,0 +1,7 @@
+{
+  "name": "LeadPulse AI - Sales Intelligence & Lead Gen",
+  "description": "AI-powered B2B lead generation, company research, qualification scoring, and sales outreach pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,2588 @@
+[
+  {
+    "name": "Dr. Anas Daghestani",
+    "contactPerson": "Dr. Anas Daghestani",
+    "title": "President & CEO",
+    "company": "Austin Regional Clinic",
+    "companyName": "Austin Regional Clinic",
+    "domain": "austinregionalclinic.com",
+    "website": "https://www.austinregionalclinic.com",
+    "email": "info@austinregionalclinic.com",
+    "phone": "+1 (512) 407-8686",
+    "location": "1301 W 38th St, Austin, United States",
+    "city": "Austin",
+    "country": "United States",
+    "industry": "Hospitals",
+    "employeeCount": "250-1000",
+    "annualRevenue": "$50M+",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 0,
+    "aiScore": 0,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Multispecialty medical group providing primary, pediatric, and specialty care across 33 clinic locations in Central Texas.",
+    "aiSummary": "Multispecialty medical group providing primary, pediatric, and specialty care across 33 clinic locations in Central Texas.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.austinregionalclinic.com/about-us.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:14:24.913Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053664913-71z2",
+    "activities": [
+      {
+        "id": "act-1794053664913",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:14:24.913Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053664913",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.austinregionalclinic.com/about-us.",
+        "createdAt": "2026-11-07T12:14:24.913Z"
+      }
+    ],
+    "leadCategory": "Cold Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 83,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.austinregionalclinic.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Dr. Anas Daghestani - president & ceo); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Austin, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Austin Regional Clinic's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Dr. Anas Daghestani to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Dr. Anas Daghestani to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:14:24.913Z"
+    },
+    "createdAt": "2026-11-07T12:14:24.913Z"
+  },
+  {
+    "name": "Kevin Sowers",
+    "contactPerson": "Kevin Sowers",
+    "title": "President of Johns Hopkins Health System",
+    "company": "Johns Hopkins Medicine",
+    "companyName": "Johns Hopkins Medicine",
+    "domain": "hopkinsmedicine.org",
+    "website": "https://www.hopkinsmedicine.org",
+    "email": "info@hopkinsmedicine.org",
+    "phone": "+1 (410) 955-5000",
+    "location": "1800 Orleans St, Baltimore, United States",
+    "city": "Baltimore",
+    "country": "United States",
+    "industry": "Hospitals",
+    "employeeCount": "250-1000",
+    "annualRevenue": "$50M+",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 0,
+    "aiScore": 0,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Integrated global health enterprise operating clinical care centers, teaching hospitals, and medical research institutes.",
+    "aiSummary": "Integrated global health enterprise operating clinical care centers, teaching hospitals, and medical research institutes.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.hopkinsmedicine.org/about.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:14:24.912Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053664912-v5sj",
+    "activities": [
+      {
+        "id": "act-1794053664912",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:14:24.912Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053664912",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.hopkinsmedicine.org/about.",
+        "createdAt": "2026-11-07T12:14:24.912Z"
+      }
+    ],
+    "leadCategory": "Cold Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 80,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 80/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 7,
+          "maxScore": 10,
+          "explanation": "Active domain registered (https://www.hopkinsmedicine.org)."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Kevin Sowers - president of johns hopkins health system); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Baltimore, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Johns Hopkins Medicine's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Kevin Sowers to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Kevin Sowers to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:14:24.912Z"
+    },
+    "createdAt": "2026-11-07T12:14:24.912Z"
+  },
+  {
+    "name": "Executive Contact at Corner Bakery Cafe",
+    "contactPerson": "Executive Contact at Corner Bakery Cafe",
+    "title": "Business Executive / Owner",
+    "company": "Corner Bakery Cafe",
+    "companyName": "Corner Bakery Cafe",
+    "domain": "cornerbakerycafe.com",
+    "website": "https://www.cornerbakerycafe.com",
+    "email": "info@cornerbakerycafe.com",
+    "phone": "+1 (972) 619-4100",
+    "location": "12700 Park Central Dr, Dallas, United States",
+    "city": "Dallas",
+    "country": "United States",
+    "industry": "Restaurants",
+    "employeeCount": "50-250",
+    "annualRevenue": "$10M - $25M",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 0,
+    "aiScore": 0,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "American chain of cafes that specialize in pastries, breads, breakfast dishes, gourmet sandwiches and corporate catering.",
+    "aiSummary": "American chain of cafes that specialize in pastries, breads, breakfast dishes, gourmet sandwiches and corporate catering.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.cornerbakerycafe.com/catering.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:14:24.912Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053664912-5y67",
+    "activities": [
+      {
+        "id": "act-1794053664912",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:14:24.912Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053664912",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.cornerbakerycafe.com/catering.",
+        "createdAt": "2026-11-07T12:14:24.912Z"
+      }
+    ],
+    "leadCategory": "Cold Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 77,
+      "leadCategory": "Warm Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 77/100 classified as Warm Lead. General commercial industry profile. Upper mid-market organization with dedicated sales operations budget.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Upper mid-market organization with dedicated sales operations budget."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.cornerbakerycafe.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 11,
+          "maxScore": 15,
+          "explanation": "General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Dallas, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Corner Bakery Cafe's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "Nurture with targeted industry case studies demonstrating tangible ROI for Restaurants.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [
+        "Named Direct Contact Person"
+      ],
+      "recommendedNextAction": "Send personalized outreach detailing pipeline acceleration benchmarks for Corner Bakery Cafe.",
+      "scoredAt": "2026-11-07T12:14:24.912Z"
+    },
+    "createdAt": "2026-11-07T12:14:24.912Z"
+  },
+  {
+    "name": "Jonathan Neman",
+    "contactPerson": "Jonathan Neman",
+    "title": "Co-Founder & CEO",
+    "company": "Sweetgreen Inc",
+    "companyName": "Sweetgreen Inc",
+    "domain": "sweetgreen.com",
+    "website": "https://www.sweetgreen.com",
+    "email": "info@sweetgreen.com",
+    "phone": "+1 (310) 979-9404",
+    "location": "3102 36th St, Los Angeles, United States",
+    "city": "Los Angeles",
+    "country": "United States",
+    "industry": "Restaurants",
+    "employeeCount": "250-1000",
+    "annualRevenue": "$50M+",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 0,
+    "aiScore": 0,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Fast-casual restaurant chain serving healthy seasonal grain bowls and locally sourced salads.",
+    "aiSummary": "Fast-casual restaurant chain serving healthy seasonal grain bowls and locally sourced salads.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.sweetgreen.com/our-story.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:14:24.911Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053664911-92a2",
+    "activities": [
+      {
+        "id": "act-1794053664911",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:14:24.911Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053664911",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.sweetgreen.com/our-story.",
+        "createdAt": "2026-11-07T12:14:24.911Z"
+      }
+    ],
+    "leadCategory": "Cold Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 83,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.sweetgreen.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Jonathan Neman - co-founder & ceo); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Los Angeles, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Sweetgreen Inc's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Jonathan Neman to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Jonathan Neman to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:14:24.911Z"
+    },
+    "createdAt": "2026-11-07T12:14:24.911Z"
+  },
+  {
+    "name": "Tyson Cole",
+    "contactPerson": "Tyson Cole",
+    "title": "Founding Chef & Partner",
+    "company": "Uchi Austin (Hai Hospitality)",
+    "companyName": "Uchi Austin (Hai Hospitality)",
+    "domain": "uchirestaurants.com",
+    "website": "https://www.uchirestaurants.com",
+    "email": "info@uchirestaurants.com",
+    "phone": "+1 (512) 916-4808",
+    "location": "801 S Lamar Blvd, Austin, United States",
+    "city": "Austin",
+    "country": "United States",
+    "industry": "Restaurants",
+    "employeeCount": "50-250",
+    "annualRevenue": "$10M - $25M",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 0,
+    "aiScore": 0,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Award-winning contemporary Japanese sushi restaurant group operating locations in Austin, Dallas, and Denver.",
+    "aiSummary": "Award-winning contemporary Japanese sushi restaurant group operating locations in Austin, Dallas, and Denver.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.uchirestaurants.com/locations/austin.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:14:24.910Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053664910-1frg",
+    "activities": [
+      {
+        "id": "act-1794053664910",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:14:24.910Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053664910",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.uchirestaurants.com/locations/austin.",
+        "createdAt": "2026-11-07T12:14:24.910Z"
+      }
+    ],
+    "leadCategory": "Cold Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 81,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 81/100 classified as Hot Lead. General commercial industry profile. Upper mid-market organization with dedicated sales operations budget.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Upper mid-market organization with dedicated sales operations budget."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.uchirestaurants.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Tyson Cole - founding chef & partner); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Austin, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Uchi Austin (Hai Hospitality)'s commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Tyson Cole to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Tyson Cole to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:14:24.911Z"
+    },
+    "createdAt": "2026-11-07T12:14:24.910Z"
+  },
+  {
+    "name": "Rob Lynch",
+    "contactPerson": "Rob Lynch",
+    "title": "Chief Executive Officer",
+    "company": "Shake Shack Enterprises",
+    "companyName": "Shake Shack Enterprises",
+    "domain": "shakeshack.com",
+    "website": "https://www.shakeshack.com",
+    "email": "info@shakeshack.com",
+    "phone": "+1 (646) 747-7200",
+    "location": "225 Varick St, Suite 301, New York, United States",
+    "city": "New York",
+    "country": "United States",
+    "industry": "Restaurants",
+    "employeeCount": "250-1000",
+    "annualRevenue": "$50M+",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 0,
+    "aiScore": 0,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Fast-casual modern roadside burger chain with over 400 global locations and institutional hospitality focus.",
+    "aiSummary": "Fast-casual modern roadside burger chain with over 400 global locations and institutional hospitality focus.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://investor.shakeshack.com.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:14:24.910Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053664910-5ivi",
+    "activities": [
+      {
+        "id": "act-1794053664910",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:14:24.910Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053664910",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://investor.shakeshack.com.",
+        "createdAt": "2026-11-07T12:14:24.910Z"
+      }
+    ],
+    "leadCategory": "Cold Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 83,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.shakeshack.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Rob Lynch - chief executive officer); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (New York, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Shake Shack Enterprises's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Rob Lynch to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Rob Lynch to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:14:24.910Z"
+    },
+    "createdAt": "2026-11-07T12:14:24.910Z"
+  },
+  {
+    "name": "Robert Reffkin",
+    "contactPerson": "Robert Reffkin",
+    "title": "Chief Executive Officer",
+    "company": "Compass Real Estate",
+    "companyName": "Compass Real Estate",
+    "domain": "compass.com",
+    "website": "https://www.compass.com",
+    "email": "info@compass.com",
+    "phone": "+1 (212) 913-9058",
+    "location": "90 5th Ave, 3rd Floor, New York, United States",
+    "city": "New York",
+    "country": "United States",
+    "industry": "Real Estate",
+    "employeeCount": "250-1000",
+    "annualRevenue": "$50M+",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 83,
+    "aiScore": 83,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+    "aiSummary": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.compass.com/about.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:14:24.908Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053664908-ster",
+    "activities": [
+      {
+        "id": "act-1794053670380-ai-score",
+        "type": "status_change",
+        "title": "AI Lead Scoring Completed",
+        "description": "Gemini calculated Lead Score 83/100 (Hot Lead) across 7 predictive factors. Confidence: High (95%).",
+        "actor": "Gemini AI",
+        "timestamp": "2026-11-07T12:14:30.380Z"
+      },
+      {
+        "id": "act-1794053664908",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:14:24.908Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053664908",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.compass.com/about.",
+        "createdAt": "2026-11-07T12:14:24.908Z"
+      }
+    ],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 83,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.compass.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Robert Reffkin - chief executive officer); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (New York, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Compass Real Estate's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Robert Reffkin to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Robert Reffkin to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:14:30.380Z"
+    },
+    "createdAt": "2026-11-07T12:14:24.908Z"
+  },
+  {
+    "name": "Christian Ulbrich",
+    "contactPerson": "Christian Ulbrich",
+    "title": "Global CEO",
+    "company": "JLL Commercial Real Estate",
+    "companyName": "JLL Commercial Real Estate",
+    "domain": "us.jll.com",
+    "website": "https://www.us.jll.com",
+    "email": "info@us.jll.com",
+    "phone": "+1 (312) 782-5800",
+    "location": "200 E Randolph St, Chicago, United States",
+    "city": "Chicago",
+    "country": "United States",
+    "industry": "Real Estate",
+    "employeeCount": "250-1000",
+    "annualRevenue": "$50M+",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 83,
+    "aiScore": 83,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+    "aiSummary": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.us.jll.com/en/about-jll.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:12:59.563Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053579563-i0lf",
+    "activities": [
+      {
+        "id": "act-1794053589600-ai-score",
+        "type": "status_change",
+        "title": "AI Lead Scoring Completed",
+        "description": "Gemini calculated Lead Score 83/100 (Hot Lead) across 7 predictive factors. Confidence: High (95%).",
+        "actor": "Gemini AI",
+        "timestamp": "2026-11-07T12:13:09.600Z"
+      },
+      {
+        "id": "act-1794053579563",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:12:59.563Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053579563",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.us.jll.com/en/about-jll.",
+        "createdAt": "2026-11-07T12:12:59.563Z"
+      }
+    ],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 83,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.us.jll.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Christian Ulbrich - global ceo); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Chicago, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for JLL Commercial Real Estate's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Christian Ulbrich to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Christian Ulbrich to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:13:09.600Z"
+    },
+    "createdAt": "2026-11-07T12:12:59.563Z"
+  },
+  {
+    "name": "James Peterson",
+    "contactPerson": "James Peterson",
+    "title": "Managing Broker",
+    "company": "Austin Capital Realty",
+    "companyName": "Austin Capital Realty",
+    "domain": "austincapitalrealty.com",
+    "website": "https://www.austincapitalrealty.com",
+    "email": "info@austincapitalrealty.com",
+    "phone": "+1 (512) 593-5499",
+    "location": "1108 Lavaca St, Suite 110, Austin, United States",
+    "city": "Austin",
+    "country": "United States",
+    "industry": "Real Estate",
+    "employeeCount": "10-50",
+    "annualRevenue": "$1M - $5M",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "Medium",
+    "qualityTier": "Medium",
+    "leadScore": 78,
+    "aiScore": 78,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Score of 78/100 classified as Warm Lead. General commercial industry profile. High-growth emerging business with agile buying authority.",
+    "aiSummary": "Score of 78/100 classified as Warm Lead. General commercial industry profile. High-growth emerging business with agile buying authority.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.austincapitalrealty.com/contact.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:12:59.562Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053579562-qjgc",
+    "activities": [
+      {
+        "id": "act-1794053587514-ai-score",
+        "type": "status_change",
+        "title": "AI Lead Scoring Completed",
+        "description": "Gemini calculated Lead Score 78/100 (Warm Lead) across 7 predictive factors. Confidence: High (95%).",
+        "actor": "Gemini AI",
+        "timestamp": "2026-11-07T12:13:07.515Z"
+      },
+      {
+        "id": "act-1794053579562",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:12:59.562Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053579562",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.austincapitalrealty.com/contact.",
+        "createdAt": "2026-11-07T12:12:59.562Z"
+      }
+    ],
+    "leadCategory": "Warm Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 78,
+      "leadCategory": "Warm Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 78/100 classified as Warm Lead. General commercial industry profile. High-growth emerging business with agile buying authority.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 10,
+          "maxScore": 15,
+          "explanation": "High-growth emerging business with agile buying authority."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.austincapitalrealty.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (James Peterson - managing broker); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Austin, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Austin Capital Realty's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "Nurture with targeted industry case studies demonstrating tangible ROI for Real Estate.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Send personalized outreach detailing pipeline acceleration benchmarks for Austin Capital Realty.",
+      "scoredAt": "2026-11-07T12:13:07.514Z"
+    },
+    "createdAt": "2026-11-07T12:12:59.562Z"
+  },
+  {
+    "name": "Bob Sulentic",
+    "contactPerson": "Bob Sulentic",
+    "title": "President & CEO",
+    "company": "CBRE Group",
+    "companyName": "CBRE Group",
+    "domain": "cbre.com",
+    "website": "https://www.cbre.com",
+    "email": "info@cbre.com",
+    "phone": "+1 (214) 979-6100",
+    "location": "2100 McKinney Ave, Suite 1250, Dallas, United States",
+    "city": "Dallas",
+    "country": "United States",
+    "industry": "Real Estate",
+    "employeeCount": "250-1000",
+    "annualRevenue": "$50M+",
+    "leadStatus": "New",
+    "status": "New",
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadScore": 83,
+    "aiScore": 83,
+    "leadSource": "Verified Directory Demo Provider",
+    "aiResearchSummary": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+    "aiSummary": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+    "remarks": "Discovered via Verified Directory Demo Provider. Source: https://www.cbre.com/about-cbre.",
+    "assignedSalesperson": "Unassigned",
+    "createdDate": "2026-11-07T12:12:59.561Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": null,
+    "isDemo": true,
+    "id": "lead-1794053579561-7tqw",
+    "activities": [
+      {
+        "id": "act-1794053584130-ai-score",
+        "type": "status_change",
+        "title": "AI Lead Scoring Completed",
+        "description": "Gemini calculated Lead Score 83/100 (Hot Lead) across 7 predictive factors. Confidence: High (95%).",
+        "actor": "Gemini AI",
+        "timestamp": "2026-11-07T12:13:04.130Z"
+      },
+      {
+        "id": "act-1794053579561",
+        "type": "created",
+        "title": "Lead Created",
+        "description": "Added to CRM database via Verified Directory Demo Provider.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-07T12:12:59.561Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1794053579561",
+        "author": "Sales Team",
+        "content": "Discovered via Verified Directory Demo Provider. Source: https://www.cbre.com/about-cbre.",
+        "createdAt": "2026-11-07T12:12:59.561Z"
+      }
+    ],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 83,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 83/100 classified as Hot Lead. General commercial industry profile. Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (250-1000, $50M+) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (www.cbre.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Bob Sulentic - president & ceo); General corporate inbox address; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Dallas, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for CBRE Group's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Bob Sulentic to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Direct executive email unconfirmed; outreach may route to generic gatekeeper inbox.",
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Bob Sulentic to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:13:04.130Z"
+    },
+    "createdAt": "2026-11-07T12:12:59.561Z"
+  },
+  {
+    "id": "lead-1",
+    "companyName": "CloudScale Logistics",
+    "company": "CloudScale Logistics",
+    "industry": "Logistics Tech & Supply Chain",
+    "contactPerson": "Elena Rostova",
+    "name": "Elena Rostova",
+    "title": "VP of Growth & Revenue Operations",
+    "email": "elena.rostova@cloudscalelogistics.com",
+    "phone": "+1 (415) 890-4421",
+    "website": "https://cloudscalelogistics.com",
+    "domain": "cloudscalelogistics.com",
+    "country": "United States",
+    "city": "San Francisco",
+    "location": "San Francisco, CA, United States",
+    "leadScore": 94,
+    "aiScore": 94,
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadSource": "Web Discovery",
+    "aiResearchSummary": "Fast-scaling series-B logistics platform actively expanding sales headcount. Fits Tier-1 ICP with modern outbound automation needs.",
+    "aiSummary": "Fast-scaling series-B logistics platform actively expanding sales headcount. Fits Tier-1 ICP with modern outbound automation needs.",
+    "remarks": "Discussed security review with CIO. All checks passed.",
+    "leadStatus": "Negotiation",
+    "status": "Negotiation",
+    "assignedSalesperson": "Sarah Jenkins",
+    "createdDate": "2026-10-28T09:15:00Z",
+    "createdAt": "2026-10-28T09:15:00Z",
+    "lastContactedDate": "2026-11-04T14:30:00Z",
+    "lastContactedAt": "2026-11-04T14:30:00Z",
+    "nextFollowUpDate": "2026-11-08T10:00:00Z",
+    "employeeCount": "250-500",
+    "annualRevenue": "$45M",
+    "linkedinUrl": "https://linkedin.com/in/elena-rostova-demo",
+    "isDemo": true,
+    "aiTalkingPoints": [
+      "Recently announced $22M Series B led by Index Ventures",
+      "Expanding SDR team by 8 members this quarter",
+      "Struggling with outbound reply rates across legacy cold email"
+    ],
+    "keyChallenges": [
+      "Pipeline predictability",
+      "SDR onboarding velocity",
+      "Email deliverability issues"
+    ],
+    "activities": [
+      {
+        "id": "act-1793965563340-lead-1",
+        "type": "status_change",
+        "title": "Bulk Status Updated",
+        "description": "Status updated to \"Negotiation\" via bulk action.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-06T11:46:03.340Z"
+      },
+      {
+        "id": "act-1793965560040",
+        "type": "note_added",
+        "title": "Internal Note Added",
+        "description": "David Mercer: \"Discussed security review with CIO. All checks passed.\"",
+        "actor": "David Mercer",
+        "timestamp": "2026-11-06T11:46:00.040Z"
+      },
+      {
+        "id": "act-1-1",
+        "type": "created",
+        "title": "Lead Ingested",
+        "description": "Discovered via Web Discovery Engine and scored by AI.",
+        "actor": "System",
+        "timestamp": "2026-10-28T09:15:00Z"
+      },
+      {
+        "id": "act-1-2",
+        "type": "status_change",
+        "title": "Status Updated to Qualified",
+        "description": "Verified budget authority and Series-B hiring signals.",
+        "actor": "Sarah Jenkins",
+        "timestamp": "2026-11-04T14:30:00Z"
+      },
+      {
+        "id": "act-1-3",
+        "type": "follow_up_scheduled",
+        "title": "Demo Follow-up Scheduled",
+        "description": "Scheduled executive product walkthrough for Nov 8.",
+        "actor": "Sarah Jenkins",
+        "timestamp": "2026-11-04T14:35:00Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1793965560040-okyl",
+        "author": "David Mercer",
+        "content": "Discussed security review with CIO. All checks passed.",
+        "createdAt": "2026-11-06T11:46:00.040Z"
+      },
+      {
+        "id": "note-1-1",
+        "author": "Sarah Jenkins",
+        "content": "Elena confirmed budget is approved for Q4 outbound automation. Very interested in WhatsApp outreach for European freight clients.",
+        "createdAt": "2026-11-04T14:32:00Z"
+      }
+    ],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 89,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 89/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. Enterprise tier scale (250-500, $45M) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (250-500, $45M) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (cloudscalelogistics.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Elena Rostova - vp of growth & revenue operations); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 8,
+          "maxScore": 15,
+          "explanation": "No major public funding or hiring events recorded yet (treated as neutral)."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (San Francisco, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 8,
+          "maxScore": 10,
+          "explanation": "Expressed commercial interest during preliminary pipeline interactions."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for CloudScale Logistics's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Elena Rostova to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Elena Rostova to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.186Z"
+    }
+  },
+  {
+    "id": "lead-2",
+    "companyName": "FinApex Systems",
+    "company": "FinApex Systems",
+    "industry": "Financial Technology (FinTech)",
+    "contactPerson": "Marcus Vance",
+    "name": "Marcus Vance",
+    "title": "Head of Sales Development",
+    "email": "marcus.v@finapex.io",
+    "phone": "+1 (212) 555-0198",
+    "website": "https://finapex.io",
+    "domain": "finapex.io",
+    "country": "United States",
+    "city": "New York",
+    "location": "New York, NY, United States",
+    "leadScore": 91,
+    "aiScore": 91,
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadSource": "Google Places Search",
+    "aiResearchSummary": "Fintech compliance platform looking to replace legacy zoominfo workflow with deeper AI enrichment and automated WhatsApp nurture.",
+    "aiSummary": "Fintech compliance platform looking to replace legacy zoominfo workflow with deeper AI enrichment and automated WhatsApp nurture.",
+    "remarks": "Evaluating AI sales tools to scale outbound from 10 to 30 SDRs.",
+    "leadStatus": "Negotiation",
+    "status": "Negotiation",
+    "assignedSalesperson": "David Mercer",
+    "createdDate": "2026-10-30T10:45:00Z",
+    "createdAt": "2026-10-30T10:45:00Z",
+    "lastContactedDate": "2026-11-05T11:20:00Z",
+    "lastContactedAt": "2026-11-05T11:20:00Z",
+    "nextFollowUpDate": "2026-11-09T15:00:00Z",
+    "employeeCount": "100-250",
+    "annualRevenue": "$28M",
+    "linkedinUrl": "https://linkedin.com/in/marcus-vance-demo",
+    "isDemo": true,
+    "aiTalkingPoints": [
+      "Marcus previously evaluated AI sales tooling at Plaid",
+      "High conversion on WhatsApp follow-ups in LATAM & EU expansion regions",
+      "Need multi-channel intelligence"
+    ],
+    "keyChallenges": [
+      "Data freshness",
+      "Personalization at scale",
+      "Manual SDR research time"
+    ],
+    "activities": [
+      {
+        "id": "act-1793965563340-lead-2",
+        "type": "status_change",
+        "title": "Bulk Status Updated",
+        "description": "Status updated to \"Negotiation\" via bulk action.",
+        "actor": "Sales Team",
+        "timestamp": "2026-11-06T11:46:03.340Z"
+      },
+      {
+        "id": "act-2-1",
+        "type": "created",
+        "title": "Lead Added to CRM",
+        "description": "Imported from Google Places Search.",
+        "actor": "System",
+        "timestamp": "2026-10-30T10:45:00Z"
+      },
+      {
+        "id": "act-2-2",
+        "type": "outreach_sent",
+        "title": "First Email Dispatched",
+        "description": "Sent personalized outbound message highlighting SDR research acceleration.",
+        "actor": "David Mercer",
+        "timestamp": "2026-11-05T11:20:00Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-2-1",
+        "author": "David Mercer",
+        "content": "Marcus opened the introductory email 4 times within 30 minutes.",
+        "createdAt": "2026-11-05T11:55:00Z"
+      }
+    ],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 87,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 87/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. Upper mid-market organization with dedicated sales operations budget.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Upper mid-market organization with dedicated sales operations budget."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (finapex.io) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Marcus Vance - head of sales development); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 8,
+          "maxScore": 15,
+          "explanation": "No major public funding or hiring events recorded yet (treated as neutral)."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (New York, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 8,
+          "maxScore": 10,
+          "explanation": "Expressed commercial interest during preliminary pipeline interactions."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for FinApex Systems's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Marcus Vance to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Marcus Vance to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.186Z"
+    }
+  },
+  {
+    "id": "lead-3",
+    "companyName": "HealthVibe Telehealth",
+    "company": "HealthVibe Telehealth",
+    "industry": "Healthcare Tech & MedTech",
+    "contactPerson": "Sophia Chen",
+    "name": "Sophia Chen",
+    "title": "Chief Commercial Officer",
+    "email": "sophia@healthvibe.health",
+    "phone": "+1 (617) 402-9812",
+    "website": "https://healthvibe.health",
+    "domain": "healthvibe.health",
+    "country": "United States",
+    "city": "Boston",
+    "location": "Boston, MA, United States",
+    "leadScore": 89,
+    "aiScore": 89,
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadSource": "Referral",
+    "aiResearchSummary": "Converted enterprise contract after 14-day trial. Utilizing AI qualification for B2B clinic outreach.",
+    "aiSummary": "Converted enterprise contract after 14-day trial. Utilizing AI qualification for B2B clinic outreach.",
+    "remarks": "Annual growth tier contract signed; champion for clinical B2B outreach.",
+    "leadStatus": "Converted",
+    "status": "Converted",
+    "assignedSalesperson": "Elena Zhou",
+    "createdDate": "2026-10-15T08:30:00Z",
+    "createdAt": "2026-10-15T08:30:00Z",
+    "lastContactedDate": "2026-11-03T16:00:00Z",
+    "lastContactedAt": "2026-11-03T16:00:00Z",
+    "nextFollowUpDate": null,
+    "employeeCount": "50-100",
+    "annualRevenue": "$15M",
+    "isDemo": true,
+    "activities": [
+      {
+        "id": "act-3-1",
+        "type": "status_change",
+        "title": "Deal Won / Converted",
+        "description": "Closed 12-month commercial SaaS license.",
+        "actor": "Elena Zhou",
+        "timestamp": "2026-11-03T16:00:00Z"
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-3-1",
+        "author": "Elena Zhou",
+        "content": "Customer requested Q1 case study collaboration.",
+        "createdAt": "2026-11-03T16:05:00Z"
+      }
+    ],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 91,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 91/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. Upper mid-market organization with dedicated sales operations budget.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Upper mid-market organization with dedicated sales operations budget."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 7,
+          "maxScore": 10,
+          "explanation": "Active domain registered (https://healthvibe.health)."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Sophia Chen - chief commercial officer); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "Active expansion signals observed: sales headcount growth and technology modernizations noted in recent activity."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Boston, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 9,
+          "maxScore": 10,
+          "explanation": "High intent: Budget authority confirmed or warm executive referral."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for HealthVibe Telehealth's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Sophia Chen to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Sophia Chen to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.186Z"
+    }
+  },
+  {
+    "id": "lead-4",
+    "companyName": "DataForge Security",
+    "company": "DataForge Security",
+    "industry": "Cybersecurity & Cloud Data",
+    "contactPerson": "David Kalu",
+    "name": "David Kalu",
+    "title": "Director of Business Development",
+    "email": "dkalu@dataforge.security",
+    "phone": "+1 (512) 782-9901",
+    "website": "https://dataforge.security",
+    "domain": "dataforge.security",
+    "country": "United States",
+    "city": "Austin",
+    "location": "Austin, TX, United States",
+    "leadScore": 88,
+    "aiScore": 88,
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadSource": "Inbound Form",
+    "aiResearchSummary": "Large enterprise security vendor. Inbound signal detected via product datasheet download. High budget capacity.",
+    "aiSummary": "Large enterprise security vendor. Inbound signal detected via product datasheet download. High budget capacity.",
+    "remarks": "Need enterprise SSO and CRM sync before contract signing.",
+    "leadStatus": "Negotiation",
+    "status": "Negotiation",
+    "assignedSalesperson": "Sarah Jenkins",
+    "createdDate": "2026-11-01T15:10:00Z",
+    "createdAt": "2026-11-01T15:10:00Z",
+    "lastContactedDate": "2026-11-05T17:15:00Z",
+    "lastContactedAt": "2026-11-05T17:15:00Z",
+    "nextFollowUpDate": "2026-11-07T14:00:00Z",
+    "employeeCount": "500-1000",
+    "annualRevenue": "$90M",
+    "isDemo": true,
+    "activities": [
+      {
+        "id": "act-4-1",
+        "type": "status_change",
+        "title": "Moved to Negotiation",
+        "description": "Pricing proposal delivered for 25 Enterprise SDR seats.",
+        "actor": "Sarah Jenkins",
+        "timestamp": "2026-11-05T17:15:00Z"
+      }
+    ],
+    "notes": [],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 95,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 95/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. Enterprise tier scale (500-1000, $90M) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (500-1000, $90M) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (dataforge.security) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (David Kalu - director of business development); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Austin, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 9,
+          "maxScore": 10,
+          "explanation": "Strong inbound signal: Prospect actively submitted interest or downloaded product resources."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for DataForge Security's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with David Kalu to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to David Kalu to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.186Z"
+    }
+  },
+  {
+    "id": "lead-5",
+    "companyName": "NordicSaaS Studio",
+    "company": "NordicSaaS Studio",
+    "industry": "B2B SaaS & Enterprise Software",
+    "contactPerson": "Sarah Lindqvist",
+    "name": "Sarah Lindqvist",
+    "title": "VP of Global Marketing",
+    "email": "sarah.l@nordicsaas.se",
+    "phone": "+46 8 123 4567",
+    "website": "https://nordicsaas.se",
+    "domain": "nordicsaas.se",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "location": "Stockholm, Sweden",
+    "leadScore": 78,
+    "aiScore": 78,
+    "leadQuality": "Medium",
+    "qualityTier": "Medium",
+    "leadSource": "Web Discovery",
+    "aiResearchSummary": "European SaaS firm targeting US mid-market entry. Solid fit but requires GDPR compliant outreach playbooks.",
+    "aiSummary": "European SaaS firm targeting US mid-market entry. Solid fit but requires GDPR compliant outreach playbooks.",
+    "remarks": "Interested in localized messaging templates.",
+    "leadStatus": "Interested",
+    "status": "Interested",
+    "assignedSalesperson": "David Mercer",
+    "createdDate": "2026-10-24T12:00:00Z",
+    "createdAt": "2026-10-24T12:00:00Z",
+    "lastContactedDate": "2026-11-02T13:15:00Z",
+    "lastContactedAt": "2026-11-02T13:15:00Z",
+    "nextFollowUpDate": "2026-11-10T11:00:00Z",
+    "employeeCount": "50-100",
+    "annualRevenue": "$12M",
+    "isDemo": true,
+    "activities": [],
+    "notes": [],
+    "leadCategory": "Warm Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 87,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 87/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. Upper mid-market organization with dedicated sales operations budget.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Upper mid-market organization with dedicated sales operations budget."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (nordicsaas.se) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Sarah Lindqvist - vp of global marketing); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 8,
+          "maxScore": 15,
+          "explanation": "No major public funding or hiring events recorded yet (treated as neutral)."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Stockholm, Sweden) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 8,
+          "maxScore": 10,
+          "explanation": "Expressed commercial interest during preliminary pipeline interactions."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for NordicSaaS Studio's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Sarah Lindqvist to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Sarah Lindqvist to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.186Z"
+    }
+  },
+  {
+    "id": "lead-6",
+    "companyName": "Apex Retail Automation",
+    "company": "Apex Retail Automation",
+    "industry": "Retail Tech & POS Systems",
+    "contactPerson": "Tariq Al-Mansoor",
+    "name": "Tariq Al-Mansoor",
+    "title": "Chief Operating Officer",
+    "email": "tariq@apexretail.ae",
+    "phone": "+971 4 456 7890",
+    "website": "https://apexretail.ae",
+    "domain": "apexretail.ae",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "location": "Dubai, UAE",
+    "leadScore": 74,
+    "aiScore": 74,
+    "leadQuality": "Medium",
+    "qualityTier": "Medium",
+    "leadSource": "Manual Entry",
+    "aiResearchSummary": "Middle East retail solutions provider. Prefers WhatsApp communication over cold email for executive contact.",
+    "aiSummary": "Middle East retail solutions provider. Prefers WhatsApp communication over cold email for executive contact.",
+    "remarks": "Prefers WhatsApp messages over email; very responsive on mobile.",
+    "leadStatus": "Contacted",
+    "status": "Contacted",
+    "assignedSalesperson": "Elena Zhou",
+    "createdDate": "2026-10-29T14:20:00Z",
+    "createdAt": "2026-10-29T14:20:00Z",
+    "lastContactedDate": "2026-11-04T09:45:00Z",
+    "lastContactedAt": "2026-11-04T09:45:00Z",
+    "nextFollowUpDate": "2026-11-08T08:00:00Z",
+    "employeeCount": "100-250",
+    "annualRevenue": "$32M",
+    "isDemo": true,
+    "activities": [],
+    "notes": [],
+    "leadCategory": "Warm Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 86,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 86/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. Upper mid-market organization with dedicated sales operations budget.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Upper mid-market organization with dedicated sales operations budget."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (apexretail.ae) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Tariq Al-Mansoor - chief operating officer); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 11,
+          "maxScore": 15,
+          "explanation": "Engaged on high-response mobile channels with prompt executive feedback."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Dubai, United Arab Emirates) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 4,
+          "maxScore": 10,
+          "explanation": "Early stage discovery; buying intent yet to be qualified via outreach."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Apex Retail Automation's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Tariq Al-Mansoor to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Tariq Al-Mansoor to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.187Z"
+    }
+  },
+  {
+    "id": "lead-7",
+    "companyName": "Verde AI Energy",
+    "company": "Verde AI Energy",
+    "industry": "CleanTech & Renewable Software",
+    "contactPerson": "Julian Moretti",
+    "name": "Julian Moretti",
+    "title": "Founder & CEO",
+    "email": "julian@verdeenergy.tech",
+    "phone": "+1 (303) 981-3344",
+    "website": "https://verdeenergy.tech",
+    "domain": "verdeenergy.tech",
+    "country": "United States",
+    "city": "Boulder",
+    "location": "Boulder, CO, United States",
+    "leadScore": 71,
+    "aiScore": 71,
+    "leadQuality": "Medium",
+    "qualityTier": "Medium",
+    "leadSource": "Web Discovery",
+    "aiResearchSummary": "Early stage high-potential cleantech startup. High engagement with recent LinkedIn thought leadership.",
+    "aiSummary": "Early stage high-potential cleantech startup. High engagement with recent LinkedIn thought leadership.",
+    "remarks": "Founder handling sales directly; sensitive to monthly subscription pricing.",
+    "leadStatus": "Not Contacted",
+    "status": "Not Contacted",
+    "assignedSalesperson": "Marcus Vance",
+    "createdDate": "2026-11-05T20:30:00Z",
+    "createdAt": "2026-11-05T20:30:00Z",
+    "lastContactedDate": null,
+    "nextFollowUpDate": "2026-11-07T16:00:00Z",
+    "employeeCount": "20-50",
+    "annualRevenue": "$4.5M",
+    "isDemo": true,
+    "activities": [],
+    "notes": [],
+    "leadCategory": "Warm Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 85,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 85/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. High-growth emerging business with agile buying authority.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 10,
+          "maxScore": 15,
+          "explanation": "High-growth emerging business with agile buying authority."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (verdeenergy.tech) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Julian Moretti - founder & ceo); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 8,
+          "maxScore": 15,
+          "explanation": "No major public funding or hiring events recorded yet (treated as neutral)."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Boulder, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 9,
+          "maxScore": 10,
+          "explanation": "High intent: Budget authority confirmed or warm executive referral."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Verde AI Energy's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Julian Moretti to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Julian Moretti to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.187Z"
+    }
+  },
+  {
+    "id": "lead-8",
+    "companyName": "OmniDesk Workspace",
+    "company": "OmniDesk Workspace",
+    "industry": "Collaborative Work Tools",
+    "contactPerson": "Chloe Tremblay",
+    "name": "Chloe Tremblay",
+    "title": "Sales Operations Manager",
+    "email": "chloe@omnidesk.co",
+    "phone": "+1 (514) 876-2311",
+    "website": "https://omnidesk.co",
+    "domain": "omnidesk.co",
+    "country": "Canada",
+    "city": "Montreal",
+    "location": "Montreal, Canada",
+    "leadScore": 54,
+    "aiScore": 54,
+    "leadQuality": "Low",
+    "qualityTier": "Low",
+    "leadSource": "Lead Discovery",
+    "aiResearchSummary": "Small company size, lower revenue band than typical high-value ICP. 3 automated follow-ups sent with no engagement.",
+    "aiSummary": "Small company size, lower revenue band than typical high-value ICP. 3 automated follow-ups sent with no engagement.",
+    "remarks": "Decided to renew existing ZoomInfo contract for 6 months.",
+    "leadStatus": "Lost",
+    "status": "Lost",
+    "assignedSalesperson": "David Mercer",
+    "createdDate": "2026-10-10T11:00:00Z",
+    "createdAt": "2026-10-10T11:00:00Z",
+    "lastContactedDate": "2026-10-22T10:00:00Z",
+    "lastContactedAt": "2026-10-22T10:00:00Z",
+    "nextFollowUpDate": null,
+    "employeeCount": "10-20",
+    "annualRevenue": "$1.8M",
+    "isDemo": true,
+    "activities": [],
+    "notes": [],
+    "leadCategory": "Potential Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 77,
+      "leadCategory": "Warm Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 77/100 classified as Warm Lead. General commercial industry profile. High-growth emerging business with agile buying authority.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 12,
+          "maxScore": 20,
+          "explanation": "General commercial industry profile."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 10,
+          "maxScore": 15,
+          "explanation": "High-growth emerging business with agile buying authority."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 7,
+          "maxScore": 10,
+          "explanation": "Active domain registered (https://omnidesk.co)."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Chloe Tremblay - sales operations manager); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "Active expansion signals observed: sales headcount growth and technology modernizations noted in recent activity."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Montreal, Canada) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 5,
+          "maxScore": 10,
+          "explanation": "Outbound discovery lead without proactive inbound intent signals recorded yet."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for OmniDesk Workspace's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "Nurture with targeted industry case studies demonstrating tangible ROI for Collaborative Work Tools.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Send personalized outreach detailing pipeline acceleration benchmarks for OmniDesk Workspace.",
+      "scoredAt": "2026-11-07T12:12:27.187Z"
+    }
+  },
+  {
+    "id": "lead-9",
+    "companyName": "QuantumSync Cloud",
+    "company": "QuantumSync Cloud",
+    "industry": "Cloud Infrastructure",
+    "contactPerson": "Aaron Becker",
+    "name": "Aaron Becker",
+    "title": "VP of Enterprise Partnerships",
+    "email": "aaron.b@quantumsync.io",
+    "phone": "+1 (206) 555-8832",
+    "website": "https://quantumsync.io",
+    "domain": "quantumsync.io",
+    "country": "United States",
+    "city": "Seattle",
+    "location": "Seattle, WA, United States",
+    "leadScore": 92,
+    "aiScore": 92,
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadSource": "Web Discovery",
+    "aiResearchSummary": "High-intent enterprise target with immediate need for automated company intelligence gathering for 40 account reps.",
+    "aiSummary": "High-intent enterprise target with immediate need for automated company intelligence gathering for 40 account reps.",
+    "remarks": "Security questionnaire submitted. Pending Infosec review.",
+    "leadStatus": "Negotiation",
+    "status": "Negotiation",
+    "assignedSalesperson": "Sarah Jenkins",
+    "createdDate": "2026-11-01T15:10:00Z",
+    "createdAt": "2026-11-01T15:10:00Z",
+    "lastContactedDate": "2026-11-05T17:15:00Z",
+    "lastContactedAt": "2026-11-05T17:15:00Z",
+    "nextFollowUpDate": "2026-11-08T13:00:00Z",
+    "employeeCount": "500-1000",
+    "annualRevenue": "$85M",
+    "isDemo": true,
+    "activities": [],
+    "notes": [],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 94,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 94/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. Enterprise tier scale (500-1000, $85M) offering significant expansion ACV.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Enterprise tier scale (500-1000, $85M) offering significant expansion ACV."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (quantumsync.io) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Aaron Becker - vp of enterprise partnerships); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Active procurement interest and enterprise security/licensing review underway."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Seattle, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 8,
+          "maxScore": 10,
+          "explanation": "Expressed commercial interest during preliminary pipeline interactions."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for QuantumSync Cloud's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Aaron Becker to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Aaron Becker to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.187Z"
+    }
+  },
+  {
+    "id": "lead-10",
+    "companyName": "Luminary Payments",
+    "company": "Luminary Payments",
+    "industry": "FinTech & B2B Payments",
+    "contactPerson": "Nadia Solis",
+    "name": "Nadia Solis",
+    "title": "Head of Growth Marketing",
+    "email": "nadia.solis@luminarypay.com",
+    "phone": "+1 (312) 440-1288",
+    "website": "https://luminarypay.com",
+    "domain": "luminarypay.com",
+    "country": "United States",
+    "city": "Chicago",
+    "location": "Chicago, IL, United States",
+    "leadScore": 95,
+    "aiScore": 95,
+    "leadQuality": "High",
+    "qualityTier": "High",
+    "leadSource": "Inbound Lead",
+    "aiResearchSummary": "Recently converted customer. Upgraded to Pro Tier after seeing 3.8x lift in meeting booking rates using AI Sales Assistant copy.",
+    "aiSummary": "Recently converted customer. Upgraded to Pro Tier after seeing 3.8x lift in meeting booking rates using AI Sales Assistant copy.",
+    "remarks": "High NPS promoter; participating in December webinar.",
+    "leadStatus": "Converted",
+    "status": "Converted",
+    "assignedSalesperson": "Elena Zhou",
+    "createdDate": "2026-10-18T09:00:00Z",
+    "createdAt": "2026-10-18T09:00:00Z",
+    "lastContactedDate": "2026-11-01T11:30:00Z",
+    "lastContactedAt": "2026-11-01T11:30:00Z",
+    "nextFollowUpDate": null,
+    "employeeCount": "100-250",
+    "annualRevenue": "$22M",
+    "isDemo": true,
+    "activities": [],
+    "notes": [],
+    "leadCategory": "Hot Lead",
+    "aiScoreAnalysis": {
+      "leadScore": 88,
+      "leadCategory": "Hot Lead",
+      "confidenceIndicator": "High",
+      "confidenceScore": 95,
+      "qualificationExplanation": "Score of 88/100 classified as Hot Lead. High synergy B2B tech/software market with strong software automation adoption. Upper mid-market organization with dedicated sales operations budget.",
+      "scoreBreakdown": {
+        "industryRelevance": {
+          "factorKey": "industryRelevance",
+          "factorName": "Industry Relevance",
+          "score": 19,
+          "maxScore": 20,
+          "explanation": "High synergy B2B tech/software market with strong software automation adoption."
+        },
+        "businessSizeAndPotential": {
+          "factorKey": "businessSizeAndPotential",
+          "factorName": "Business Size & Potential",
+          "score": 13,
+          "maxScore": 15,
+          "explanation": "Upper mid-market organization with dedicated sales operations budget."
+        },
+        "websiteAndOnlinePresence": {
+          "factorKey": "websiteAndOnlinePresence",
+          "factorName": "Website & Online Presence",
+          "score": 10,
+          "maxScore": 10,
+          "explanation": "Verified corporate web presence (luminarypay.com) with established domain authority."
+        },
+        "contactQuality": {
+          "factorKey": "contactQuality",
+          "factorName": "Contact Information Quality",
+          "score": 15,
+          "maxScore": 15,
+          "explanation": "Identified executive (Nadia Solis - head of growth marketing); Verified direct corporate email; Direct phone / WhatsApp line."
+        },
+        "growthSignals": {
+          "factorKey": "growthSignals",
+          "factorName": "Business Activity & Growth Signals",
+          "score": 8,
+          "maxScore": 15,
+          "explanation": "No major public funding or hiring events recorded yet (treated as neutral)."
+        },
+        "targetMarketRelevance": {
+          "factorKey": "targetMarketRelevance",
+          "factorName": "Target Market Relevance",
+          "score": 14,
+          "maxScore": 15,
+          "explanation": "High-tier target jurisdiction (Chicago, United States) with proven SaaS buying power and legal compliance clarity."
+        },
+        "buyingIntentSignals": {
+          "factorKey": "buyingIntentSignals",
+          "factorName": "Buying Intent Signals",
+          "score": 9,
+          "maxScore": 10,
+          "explanation": "Strong inbound signal: Prospect actively submitted interest or downloaded product resources."
+        }
+      },
+      "businessOpportunities": [
+        "Streamline prospect research cycles for Luminary Payments's commercial teams",
+        "Implement multi-channel sales sequencing combining verified email with WhatsApp follow-ups",
+        "Replace manual company intelligence lookup with automated pipeline enrichment"
+      ],
+      "potentialCustomerNeeds": [
+        "Automated ICP account qualification and executive verification",
+        "Higher response rates on outbound sales engagements",
+        "Real-time CRM data freshness and contact deduplication"
+      ],
+      "recommendedSalesStrategy": "High-priority priority opportunity. Schedule a 15-minute executive briefing with Nadia Solis to demonstrate bespoke platform workflows.",
+      "mainRisks": [
+        "Standard competitive displacement risk if existing legacy tools are under active multi-year contract."
+      ],
+      "missingInformation": [],
+      "recommendedNextAction": "Initiate direct outreach via WhatsApp / phone to Nadia Solis to confirm demonstration timing.",
+      "scoredAt": "2026-11-07T12:12:27.187Z"
+    }
+  }
+]

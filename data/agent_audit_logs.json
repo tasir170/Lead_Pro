@@ -1,0 +1,4058 @@
+[
+  {
+    "id": "audit-1794397343238-a0sg",
+    "timestamp": "2026-11-11T11:42:23.238Z",
+    "agentId": "lead_qualifier",
+    "toolName": "qualify_lead",
+    "action": "Lead Scored & Classification Saved",
+    "details": "Scored Apex QA Robotics 1794397332756: 80/100 (Hot Lead). Recommended next step: Initiate direct outreach via WhatsApp / phone to David Chen to confirm demonstration timing.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794397333233-koiw",
+    "timestamp": "2026-11-11T11:42:13.233Z",
+    "agentId": "lead_qualifier",
+    "toolName": "qualify_lead",
+    "action": "Initiate 7-Factor Qualification Analysis",
+    "details": "Analyzing suitability, market jurisdiction, buying signals, and scoring lead lead-1794397332777-a5hi",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794395376975-p9vl",
+    "timestamp": "2026-11-11T11:09:36.975Z",
+    "agentId": "lead_qualifier",
+    "toolName": "qualify_lead",
+    "action": "Lead Scored & Classification Saved",
+    "details": "Scored Apex QA Robotics 1794395366788: 80/100 (Hot Lead). Recommended next step: Initiate direct outreach via WhatsApp / phone to David Chen to confirm demonstration timing.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794395376828-945i",
+    "timestamp": "2026-11-11T11:09:36.828Z",
+    "agentId": "lead_qualifier",
+    "toolName": "qualify_lead",
+    "action": "Initiate 7-Factor Qualification Analysis",
+    "details": "Analyzing suitability, market jurisdiction, buying signals, and scoring lead lead-1794395366796-9q6h",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794395315956-f1s6",
+    "timestamp": "2026-11-11T11:08:35.956Z",
+    "agentId": "lead_qualifier",
+    "toolName": "qualify_lead",
+    "action": "Lead Scored & Classification Saved",
+    "details": "Scored Apex QA Robotics 1794395314830: 80/100 (Hot Lead). Recommended next step: Initiate direct outreach via WhatsApp / phone to David Chen to confirm demonstration timing.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794395315663-7ysv",
+    "timestamp": "2026-11-11T11:08:35.663Z",
+    "agentId": "lead_qualifier",
+    "toolName": "qualify_lead",
+    "action": "Initiate 7-Factor Qualification Analysis",
+    "details": "Analyzing suitability, market jurisdiction, buying signals, and scoring lead lead-1794395314850-ddc9",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794395291744-kx5i",
+    "timestamp": "2026-11-11T11:08:11.744Z",
+    "agentId": "lead_qualifier",
+    "toolName": "qualify_lead",
+    "action": "Lead Scored & Classification Saved",
+    "details": "Scored Apex QA Robotics 1794395281313: 80/100 (Hot Lead). Recommended next step: Initiate direct outreach via WhatsApp / phone to David Chen to confirm demonstration timing.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794395291348-ak8u",
+    "timestamp": "2026-11-11T11:08:11.348Z",
+    "agentId": "lead_qualifier",
+    "toolName": "qualify_lead",
+    "action": "Initiate 7-Factor Qualification Analysis",
+    "details": "Analyzing suitability, market jurisdiction, buying signals, and scoring lead lead-1794395281320-x52u",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053707658-6kur",
+    "timestamp": "2026-11-07T12:15:07.658Z",
+    "agentId": "orchestrator",
+    "taskId": "task-1794053707642-509r",
+    "action": "Task Orchestration Completed",
+    "details": "All 3 steps executed successfully. Discovered: 0, Qualified: 0, Strategies: 0.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053707647-98z5",
+    "timestamp": "2026-11-07T12:15:07.647Z",
+    "agentId": "crm_manager",
+    "taskId": "task-1794053707642-509r",
+    "stepId": "step-task-1794053707642-509r-1",
+    "toolName": "crm_find_duplicates",
+    "action": "Deduplication Audit Complete",
+    "details": "Audited all 20 records. Database is completely deduplicated; 0 duplicate domains or emails detected.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053707646-iker",
+    "timestamp": "2026-11-07T12:15:07.646Z",
+    "agentId": "crm_manager",
+    "taskId": "task-1794053707642-509r",
+    "stepId": "step-task-1794053707642-509r-1",
+    "toolName": "crm_find_duplicates",
+    "action": "Initiate Duplicate Record Scan",
+    "details": "Comparing normalized company domains, corporate emails, and contact numbers across database",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053707643-ibli",
+    "timestamp": "2026-11-07T12:15:07.643Z",
+    "agentId": "orchestrator",
+    "taskId": "task-1794053707642-509r",
+    "action": "Task Orchestration Started",
+    "details": "Prompt: \"Audit the CRM database for duplicate records, find incomplete leads, and generate a daily hygiene summary\" - Generated 3 sequential steps across agents: crm_manager.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053693589-pu6t",
+    "timestamp": "2026-11-07T12:14:53.589Z",
+    "agentId": "orchestrator",
+    "taskId": "task-1794053664899-u21x",
+    "action": "Task Orchestration Completed",
+    "details": "All 4 steps executed successfully. Discovered: 10, Qualified: 5, Strategies: 1.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053693587-ohg8",
+    "timestamp": "2026-11-07T12:14:53.587Z",
+    "agentId": "sales_strategist",
+    "taskId": "task-1794053664899-u21x",
+    "stepId": "step-task-1794053664899-u21x-4",
+    "toolName": "generate_sales_strategy",
+    "action": "Sales Pitch & Multi-Channel Copy Created",
+    "details": "Crafted consultative outbound strategy for Elena Rostova at CloudScale Logistics. Generated Email and WhatsApp drafts with 4-step follow-up schedule.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053685974-hqtm",
+    "timestamp": "2026-11-07T12:14:45.974Z",
+    "agentId": "sales_strategist",
+    "taskId": "task-1794053664899-u21x",
+    "stepId": "step-task-1794053664899-u21x-4",
+    "toolName": "generate_sales_strategy",
+    "action": "Synthesize Consultative Sales Strategy",
+    "details": "Crafting personalized multi-channel outreach for lead-1 (Channel: email)",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053667316-2u4a",
+    "timestamp": "2026-11-07T12:14:27.316Z",
+    "agentId": "lead_researcher",
+    "taskId": "task-1794053664899-u21x",
+    "stepId": "step-task-1794053664899-u21x-2",
+    "toolName": "research_company",
+    "action": "Research Dossier Generated & CRM Synced",
+    "details": "Successfully completed deep intelligence analysis for Technology Leader United States (technologyleaderunitedstates.com). Verified tech stack: Salesforce CRM, HubSpot, Segment.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053664916-apts",
+    "timestamp": "2026-11-07T12:14:24.916Z",
+    "agentId": "lead_researcher",
+    "taskId": "task-1794053664899-u21x",
+    "stepId": "step-task-1794053664899-u21x-2",
+    "toolName": "research_company",
+    "action": "Initiate Public Intelligence Research",
+    "details": "Deep OSINT analysis initiated for: Technology Leader United States",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053664914-nges",
+    "timestamp": "2026-11-07T12:14:24.914Z",
+    "agentId": "lead_researcher",
+    "taskId": "task-1794053664899-u21x",
+    "stepId": "step-task-1794053664899-u21x-1",
+    "toolName": "discover_leads",
+    "action": "Lead Discovery & CRM Ingestion Succeeded",
+    "details": "Discovered 10 verified business listings for Technology in United States via Verified Directory Demo Dataset. Saved 7 records directly to CRM database.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053664902-xvja",
+    "timestamp": "2026-11-07T12:14:24.902Z",
+    "agentId": "lead_researcher",
+    "taskId": "task-1794053664899-u21x",
+    "stepId": "step-task-1794053664899-u21x-1",
+    "toolName": "discover_leads",
+    "action": "Initiate Multi-Engine Lead Discovery",
+    "details": "Searching for Technology companies in United States (Target size: Any)",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053664900-kaag",
+    "timestamp": "2026-11-07T12:14:24.900Z",
+    "agentId": "orchestrator",
+    "taskId": "task-1794053664899-u21x",
+    "action": "Task Orchestration Started",
+    "details": "Prompt: \"Audit the CRM database for duplicate records, find incomplete leads, and generate a daily hygiene summary\" - Generated 4 sequential steps across agents: lead_researcher, lead_qualifier, sales_strategist.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053653397-2ish",
+    "timestamp": "2026-11-07T12:14:13.397Z",
+    "agentId": "orchestrator",
+    "taskId": "task-1794053579556-7orz",
+    "action": "Task Orchestration Completed",
+    "details": "All 4 steps executed successfully. Discovered: 3, Qualified: 3, Strategies: 1.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053653383-y7xu",
+    "timestamp": "2026-11-07T12:14:13.383Z",
+    "agentId": "sales_strategist",
+    "taskId": "task-1794053579556-7orz",
+    "stepId": "step-task-1794053579556-7orz-4",
+    "toolName": "generate_sales_strategy",
+    "action": "Sales Pitch & Multi-Channel Copy Created",
+    "details": "Crafted consultative outbound strategy for Elena Rostova at CloudScale Logistics. Generated Email and WhatsApp drafts with 4-step follow-up schedule.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053589602-nek7",
+    "timestamp": "2026-11-07T12:13:09.602Z",
+    "agentId": "sales_strategist",
+    "taskId": "task-1794053579556-7orz",
+    "stepId": "step-task-1794053579556-7orz-4",
+    "toolName": "generate_sales_strategy",
+    "action": "Synthesize Consultative Sales Strategy",
+    "details": "Crafting personalized multi-channel outreach for lead-1 (Channel: email)",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053582301-87fo",
+    "timestamp": "2026-11-07T12:13:02.301Z",
+    "agentId": "lead_researcher",
+    "taskId": "task-1794053579556-7orz",
+    "stepId": "step-task-1794053579556-7orz-2",
+    "toolName": "research_company",
+    "action": "Research Dossier Generated & CRM Synced",
+    "details": "Successfully completed deep intelligence analysis for Real Estate Leader Dubai (realestateleaderdubai.com). Verified tech stack: Salesforce CRM, HubSpot, Segment.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053579565-28oh",
+    "timestamp": "2026-11-07T12:12:59.565Z",
+    "agentId": "lead_researcher",
+    "taskId": "task-1794053579556-7orz",
+    "stepId": "step-task-1794053579556-7orz-2",
+    "toolName": "research_company",
+    "action": "Initiate Public Intelligence Research",
+    "details": "Deep OSINT analysis initiated for: Real Estate Leader Dubai",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053579563-djgj",
+    "timestamp": "2026-11-07T12:12:59.563Z",
+    "agentId": "lead_researcher",
+    "taskId": "task-1794053579556-7orz",
+    "stepId": "step-task-1794053579556-7orz-1",
+    "toolName": "discover_leads",
+    "action": "Lead Discovery & CRM Ingestion Succeeded",
+    "details": "Discovered 3 verified business listings for Real Estate in Dubai via Verified Directory Demo Dataset. Saved 3 records directly to CRM database.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053579558-hqxu",
+    "timestamp": "2026-11-07T12:12:59.558Z",
+    "agentId": "lead_researcher",
+    "taskId": "task-1794053579556-7orz",
+    "stepId": "step-task-1794053579556-7orz-1",
+    "toolName": "discover_leads",
+    "action": "Initiate Multi-Engine Lead Discovery",
+    "details": "Searching for Real Estate companies in Dubai (Target size: Any)",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053579556-2yox",
+    "timestamp": "2026-11-07T12:12:59.556Z",
+    "agentId": "orchestrator",
+    "taskId": "task-1794053579556-7orz",
+    "action": "Task Orchestration Started",
+    "details": "Prompt: \"Find 20 real estate companies in Dubai, research them, score them and save qualified leads\" - Generated 4 sequential steps across agents: lead_researcher, lead_qualifier, sales_strategist.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550493-ivtk",
+    "timestamp": "2026-11-07T12:12:30.493Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550492-viqw",
+    "timestamp": "2026-11-07T12:12:30.492Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550491-r1t1",
+    "timestamp": "2026-11-07T12:12:30.491Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550491-4hjd",
+    "timestamp": "2026-11-07T12:12:30.491Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550490-f69q",
+    "timestamp": "2026-11-07T12:12:30.490Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550489-tpmv",
+    "timestamp": "2026-11-07T12:12:30.489Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550488-n1f4",
+    "timestamp": "2026-11-07T12:12:30.488Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550487-xz8d",
+    "timestamp": "2026-11-07T12:12:30.487Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550486-24gk",
+    "timestamp": "2026-11-07T12:12:30.486Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550485-yyth",
+    "timestamp": "2026-11-07T12:12:30.485Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550484-85hs",
+    "timestamp": "2026-11-07T12:12:30.484Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550483-b1az",
+    "timestamp": "2026-11-07T12:12:30.483Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550483-brbn",
+    "timestamp": "2026-11-07T12:12:30.483Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550482-tb0e",
+    "timestamp": "2026-11-07T12:12:30.482Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550481-dryv",
+    "timestamp": "2026-11-07T12:12:30.481Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550480-a0mq",
+    "timestamp": "2026-11-07T12:12:30.480Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550479-ydvp",
+    "timestamp": "2026-11-07T12:12:30.479Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550478-w10q",
+    "timestamp": "2026-11-07T12:12:30.478Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550477-lo2s",
+    "timestamp": "2026-11-07T12:12:30.477Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550477-u82w",
+    "timestamp": "2026-11-07T12:12:30.477Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550476-z2z7",
+    "timestamp": "2026-11-07T12:12:30.476Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550475-ll59",
+    "timestamp": "2026-11-07T12:12:30.475Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550474-c5zh",
+    "timestamp": "2026-11-07T12:12:30.474Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550473-pjtz",
+    "timestamp": "2026-11-07T12:12:30.473Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550472-x5rn",
+    "timestamp": "2026-11-07T12:12:30.472Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550471-kn6m",
+    "timestamp": "2026-11-07T12:12:30.471Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550470-eiov",
+    "timestamp": "2026-11-07T12:12:30.470Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550469-t98b",
+    "timestamp": "2026-11-07T12:12:30.469Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550468-anhi",
+    "timestamp": "2026-11-07T12:12:30.468Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550467-vc14",
+    "timestamp": "2026-11-07T12:12:30.467Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550466-wmcu",
+    "timestamp": "2026-11-07T12:12:30.466Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550466-wzzg",
+    "timestamp": "2026-11-07T12:12:30.466Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550465-d22v",
+    "timestamp": "2026-11-07T12:12:30.465Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550464-q4hj",
+    "timestamp": "2026-11-07T12:12:30.464Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550463-zx6l",
+    "timestamp": "2026-11-07T12:12:30.463Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550462-lcbq",
+    "timestamp": "2026-11-07T12:12:30.462Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550461-icie",
+    "timestamp": "2026-11-07T12:12:30.461Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550457-vwl7",
+    "timestamp": "2026-11-07T12:12:30.457Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550456-9ipu",
+    "timestamp": "2026-11-07T12:12:30.456Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550455-sw7f",
+    "timestamp": "2026-11-07T12:12:30.455Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550454-3kg1",
+    "timestamp": "2026-11-07T12:12:30.454Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550453-21vg",
+    "timestamp": "2026-11-07T12:12:30.453Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550453-9b8f",
+    "timestamp": "2026-11-07T12:12:30.453Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550452-up71",
+    "timestamp": "2026-11-07T12:12:30.452Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550451-byof",
+    "timestamp": "2026-11-07T12:12:30.451Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550450-viz9",
+    "timestamp": "2026-11-07T12:12:30.450Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550449-mivr",
+    "timestamp": "2026-11-07T12:12:30.449Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550448-ltqd",
+    "timestamp": "2026-11-07T12:12:30.448Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550447-1n4w",
+    "timestamp": "2026-11-07T12:12:30.447Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550447-llys",
+    "timestamp": "2026-11-07T12:12:30.447Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550446-0rvs",
+    "timestamp": "2026-11-07T12:12:30.446Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550445-1inv",
+    "timestamp": "2026-11-07T12:12:30.445Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550444-dctc",
+    "timestamp": "2026-11-07T12:12:30.444Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550443-l5nw",
+    "timestamp": "2026-11-07T12:12:30.443Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550442-cqki",
+    "timestamp": "2026-11-07T12:12:30.442Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550441-j8fk",
+    "timestamp": "2026-11-07T12:12:30.441Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550440-3v2e",
+    "timestamp": "2026-11-07T12:12:30.440Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550439-0qa6",
+    "timestamp": "2026-11-07T12:12:30.439Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550438-msf2",
+    "timestamp": "2026-11-07T12:12:30.438Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550438-56gc",
+    "timestamp": "2026-11-07T12:12:30.438Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550437-ln6o",
+    "timestamp": "2026-11-07T12:12:30.437Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550436-rx64",
+    "timestamp": "2026-11-07T12:12:30.436Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550435-xf3p",
+    "timestamp": "2026-11-07T12:12:30.435Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550434-n1a0",
+    "timestamp": "2026-11-07T12:12:30.434Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550433-7iqk",
+    "timestamp": "2026-11-07T12:12:30.433Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550432-dq3v",
+    "timestamp": "2026-11-07T12:12:30.432Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550432-cv4v",
+    "timestamp": "2026-11-07T12:12:30.432Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550431-i9u8",
+    "timestamp": "2026-11-07T12:12:30.431Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550430-bsx2",
+    "timestamp": "2026-11-07T12:12:30.430Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550429-qow2",
+    "timestamp": "2026-11-07T12:12:30.429Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550428-h11q",
+    "timestamp": "2026-11-07T12:12:30.428Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550427-x4z6",
+    "timestamp": "2026-11-07T12:12:30.427Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550426-65bv",
+    "timestamp": "2026-11-07T12:12:30.426Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550425-gkoi",
+    "timestamp": "2026-11-07T12:12:30.425Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550424-9a1l",
+    "timestamp": "2026-11-07T12:12:30.425Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550424-vyvl",
+    "timestamp": "2026-11-07T12:12:30.424Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550423-4l5f",
+    "timestamp": "2026-11-07T12:12:30.423Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550422-g1nj",
+    "timestamp": "2026-11-07T12:12:30.422Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550421-kaa1",
+    "timestamp": "2026-11-07T12:12:30.421Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550420-s03r",
+    "timestamp": "2026-11-07T12:12:30.420Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550419-19zu",
+    "timestamp": "2026-11-07T12:12:30.419Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550418-icta",
+    "timestamp": "2026-11-07T12:12:30.418Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550417-r8o6",
+    "timestamp": "2026-11-07T12:12:30.417Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550414-3tks",
+    "timestamp": "2026-11-07T12:12:30.414Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550413-gfya",
+    "timestamp": "2026-11-07T12:12:30.413Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550413-l4b8",
+    "timestamp": "2026-11-07T12:12:30.413Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550412-5og7",
+    "timestamp": "2026-11-07T12:12:30.412Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550411-9g1k",
+    "timestamp": "2026-11-07T12:12:30.411Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550410-un1i",
+    "timestamp": "2026-11-07T12:12:30.410Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550409-gd7w",
+    "timestamp": "2026-11-07T12:12:30.409Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550408-m426",
+    "timestamp": "2026-11-07T12:12:30.408Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550407-55a8",
+    "timestamp": "2026-11-07T12:12:30.407Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550406-z9v8",
+    "timestamp": "2026-11-07T12:12:30.406Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550405-iwma",
+    "timestamp": "2026-11-07T12:12:30.405Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550404-vyt9",
+    "timestamp": "2026-11-07T12:12:30.404Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550404-lo64",
+    "timestamp": "2026-11-07T12:12:30.404Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550403-gx7x",
+    "timestamp": "2026-11-07T12:12:30.403Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550402-b890",
+    "timestamp": "2026-11-07T12:12:30.402Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550401-sxem",
+    "timestamp": "2026-11-07T12:12:30.401Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550400-bkg0",
+    "timestamp": "2026-11-07T12:12:30.400Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550399-n3qs",
+    "timestamp": "2026-11-07T12:12:30.399Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550398-0xfl",
+    "timestamp": "2026-11-07T12:12:30.398Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550397-9iw5",
+    "timestamp": "2026-11-07T12:12:30.397Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550396-zj0g",
+    "timestamp": "2026-11-07T12:12:30.397Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550396-ig5p",
+    "timestamp": "2026-11-07T12:12:30.396Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550395-mzhk",
+    "timestamp": "2026-11-07T12:12:30.395Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550394-ucz7",
+    "timestamp": "2026-11-07T12:12:30.394Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550393-xs6q",
+    "timestamp": "2026-11-07T12:12:30.393Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550392-pf5t",
+    "timestamp": "2026-11-07T12:12:30.392Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550391-xv94",
+    "timestamp": "2026-11-07T12:12:30.391Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550390-e4a7",
+    "timestamp": "2026-11-07T12:12:30.390Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550389-0fw4",
+    "timestamp": "2026-11-07T12:12:30.389Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550388-agwi",
+    "timestamp": "2026-11-07T12:12:30.388Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550387-vums",
+    "timestamp": "2026-11-07T12:12:30.387Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550386-qcd1",
+    "timestamp": "2026-11-07T12:12:30.386Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550385-kjwh",
+    "timestamp": "2026-11-07T12:12:30.385Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550384-58zw",
+    "timestamp": "2026-11-07T12:12:30.384Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550383-hraj",
+    "timestamp": "2026-11-07T12:12:30.383Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550382-2nlf",
+    "timestamp": "2026-11-07T12:12:30.382Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550381-sio2",
+    "timestamp": "2026-11-07T12:12:30.381Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550380-t38x",
+    "timestamp": "2026-11-07T12:12:30.380Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550379-635n",
+    "timestamp": "2026-11-07T12:12:30.379Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550378-6rfv",
+    "timestamp": "2026-11-07T12:12:30.378Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550377-0or2",
+    "timestamp": "2026-11-07T12:12:30.377Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550376-3bg3",
+    "timestamp": "2026-11-07T12:12:30.376Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550375-s1x8",
+    "timestamp": "2026-11-07T12:12:30.375Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550374-hm70",
+    "timestamp": "2026-11-07T12:12:30.374Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550373-omt9",
+    "timestamp": "2026-11-07T12:12:30.373Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550372-dzeg",
+    "timestamp": "2026-11-07T12:12:30.372Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550371-23tu",
+    "timestamp": "2026-11-07T12:12:30.371Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550370-sg75",
+    "timestamp": "2026-11-07T12:12:30.370Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550369-5bgf",
+    "timestamp": "2026-11-07T12:12:30.369Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550368-m38h",
+    "timestamp": "2026-11-07T12:12:30.368Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550367-pc6a",
+    "timestamp": "2026-11-07T12:12:30.367Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550367-lzcx",
+    "timestamp": "2026-11-07T12:12:30.367Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550366-5tdq",
+    "timestamp": "2026-11-07T12:12:30.366Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550365-9bmx",
+    "timestamp": "2026-11-07T12:12:30.365Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550364-yobi",
+    "timestamp": "2026-11-07T12:12:30.364Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550363-hz2m",
+    "timestamp": "2026-11-07T12:12:30.363Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550362-w5a4",
+    "timestamp": "2026-11-07T12:12:30.362Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550361-zd6j",
+    "timestamp": "2026-11-07T12:12:30.361Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550360-xxxs",
+    "timestamp": "2026-11-07T12:12:30.360Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550359-xk2d",
+    "timestamp": "2026-11-07T12:12:30.359Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550358-0hb8",
+    "timestamp": "2026-11-07T12:12:30.358Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550357-gzhq",
+    "timestamp": "2026-11-07T12:12:30.357Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550356-m6zv",
+    "timestamp": "2026-11-07T12:12:30.356Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550356-rpze",
+    "timestamp": "2026-11-07T12:12:30.356Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550355-y696",
+    "timestamp": "2026-11-07T12:12:30.355Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550354-bsub",
+    "timestamp": "2026-11-07T12:12:30.354Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550353-1maj",
+    "timestamp": "2026-11-07T12:12:30.353Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550352-u4zh",
+    "timestamp": "2026-11-07T12:12:30.352Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550351-d30j",
+    "timestamp": "2026-11-07T12:12:30.351Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550350-45fa",
+    "timestamp": "2026-11-07T12:12:30.350Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550349-8ju7",
+    "timestamp": "2026-11-07T12:12:30.349Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550348-envn",
+    "timestamp": "2026-11-07T12:12:30.348Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550347-jyi2",
+    "timestamp": "2026-11-07T12:12:30.347Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550346-7i8e",
+    "timestamp": "2026-11-07T12:12:30.346Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550345-455d",
+    "timestamp": "2026-11-07T12:12:30.345Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550344-9aat",
+    "timestamp": "2026-11-07T12:12:30.344Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550343-b5k2",
+    "timestamp": "2026-11-07T12:12:30.343Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550342-4501",
+    "timestamp": "2026-11-07T12:12:30.342Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550341-hkzz",
+    "timestamp": "2026-11-07T12:12:30.341Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550340-zz12",
+    "timestamp": "2026-11-07T12:12:30.340Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550339-4540",
+    "timestamp": "2026-11-07T12:12:30.339Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550338-96ha",
+    "timestamp": "2026-11-07T12:12:30.338Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550338-q2pa",
+    "timestamp": "2026-11-07T12:12:30.338Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550337-6snu",
+    "timestamp": "2026-11-07T12:12:30.337Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550336-mrim",
+    "timestamp": "2026-11-07T12:12:30.336Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550335-fgra",
+    "timestamp": "2026-11-07T12:12:30.335Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550334-gkte",
+    "timestamp": "2026-11-07T12:12:30.334Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550333-4p4e",
+    "timestamp": "2026-11-07T12:12:30.333Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550332-7qdm",
+    "timestamp": "2026-11-07T12:12:30.332Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550331-6kvd",
+    "timestamp": "2026-11-07T12:12:30.331Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550330-fym2",
+    "timestamp": "2026-11-07T12:12:30.331Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550330-6b5b",
+    "timestamp": "2026-11-07T12:12:30.330Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550329-fneo",
+    "timestamp": "2026-11-07T12:12:30.329Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550328-k8tj",
+    "timestamp": "2026-11-07T12:12:30.328Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550327-mni5",
+    "timestamp": "2026-11-07T12:12:30.327Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550326-l0hv",
+    "timestamp": "2026-11-07T12:12:30.326Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550325-ihf7",
+    "timestamp": "2026-11-07T12:12:30.325Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550324-gli5",
+    "timestamp": "2026-11-07T12:12:30.324Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550323-gspb",
+    "timestamp": "2026-11-07T12:12:30.323Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550320-7046",
+    "timestamp": "2026-11-07T12:12:30.320Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550320-fnh8",
+    "timestamp": "2026-11-07T12:12:30.320Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550319-1ilq",
+    "timestamp": "2026-11-07T12:12:30.319Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550318-mgeh",
+    "timestamp": "2026-11-07T12:12:30.318Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550317-xln2",
+    "timestamp": "2026-11-07T12:12:30.317Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550316-qvse",
+    "timestamp": "2026-11-07T12:12:30.316Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550315-x1li",
+    "timestamp": "2026-11-07T12:12:30.315Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550314-bpm5",
+    "timestamp": "2026-11-07T12:12:30.314Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550313-9p36",
+    "timestamp": "2026-11-07T12:12:30.313Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550312-6351",
+    "timestamp": "2026-11-07T12:12:30.312Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550311-ydny",
+    "timestamp": "2026-11-07T12:12:30.311Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550310-vz61",
+    "timestamp": "2026-11-07T12:12:30.310Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550309-dtt1",
+    "timestamp": "2026-11-07T12:12:30.309Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550309-3ein",
+    "timestamp": "2026-11-07T12:12:30.309Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550308-zl0q",
+    "timestamp": "2026-11-07T12:12:30.308Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550307-9hlk",
+    "timestamp": "2026-11-07T12:12:30.307Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550306-dr3n",
+    "timestamp": "2026-11-07T12:12:30.306Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550305-5pfn",
+    "timestamp": "2026-11-07T12:12:30.305Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550304-fvuz",
+    "timestamp": "2026-11-07T12:12:30.304Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550303-bnzu",
+    "timestamp": "2026-11-07T12:12:30.303Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550302-oc81",
+    "timestamp": "2026-11-07T12:12:30.302Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550301-mevx",
+    "timestamp": "2026-11-07T12:12:30.301Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550300-44xk",
+    "timestamp": "2026-11-07T12:12:30.300Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550299-pqa2",
+    "timestamp": "2026-11-07T12:12:30.299Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550299-2som",
+    "timestamp": "2026-11-07T12:12:30.299Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550298-hp3k",
+    "timestamp": "2026-11-07T12:12:30.298Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550297-lyqe",
+    "timestamp": "2026-11-07T12:12:30.297Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550296-ouxs",
+    "timestamp": "2026-11-07T12:12:30.296Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550295-0bus",
+    "timestamp": "2026-11-07T12:12:30.295Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550294-d4zy",
+    "timestamp": "2026-11-07T12:12:30.294Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550293-v6si",
+    "timestamp": "2026-11-07T12:12:30.293Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550292-3cai",
+    "timestamp": "2026-11-07T12:12:30.292Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550291-042o",
+    "timestamp": "2026-11-07T12:12:30.291Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550290-4mcu",
+    "timestamp": "2026-11-07T12:12:30.290Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550289-8gmo",
+    "timestamp": "2026-11-07T12:12:30.289Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550288-abbw",
+    "timestamp": "2026-11-07T12:12:30.288Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550287-gaqj",
+    "timestamp": "2026-11-07T12:12:30.287Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550287-3t8k",
+    "timestamp": "2026-11-07T12:12:30.287Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550286-pyl6",
+    "timestamp": "2026-11-07T12:12:30.286Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550285-f1zw",
+    "timestamp": "2026-11-07T12:12:30.285Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550284-z0pd",
+    "timestamp": "2026-11-07T12:12:30.284Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550283-3tw0",
+    "timestamp": "2026-11-07T12:12:30.283Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550282-z88l",
+    "timestamp": "2026-11-07T12:12:30.282Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550281-lo20",
+    "timestamp": "2026-11-07T12:12:30.281Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550280-5l1g",
+    "timestamp": "2026-11-07T12:12:30.280Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550279-hwv2",
+    "timestamp": "2026-11-07T12:12:30.279Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550279-grov",
+    "timestamp": "2026-11-07T12:12:30.279Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550278-uhip",
+    "timestamp": "2026-11-07T12:12:30.278Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550277-au50",
+    "timestamp": "2026-11-07T12:12:30.277Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550275-szt6",
+    "timestamp": "2026-11-07T12:12:30.275Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550275-l05u",
+    "timestamp": "2026-11-07T12:12:30.275Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550274-suvb",
+    "timestamp": "2026-11-07T12:12:30.274Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550273-kmz6",
+    "timestamp": "2026-11-07T12:12:30.273Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550272-if12",
+    "timestamp": "2026-11-07T12:12:30.272Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550271-78f3",
+    "timestamp": "2026-11-07T12:12:30.271Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550270-d62a",
+    "timestamp": "2026-11-07T12:12:30.270Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550269-c8wl",
+    "timestamp": "2026-11-07T12:12:30.269Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550268-mq77",
+    "timestamp": "2026-11-07T12:12:30.268Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550267-bqry",
+    "timestamp": "2026-11-07T12:12:30.267Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550266-ix9v",
+    "timestamp": "2026-11-07T12:12:30.266Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550265-3i8k",
+    "timestamp": "2026-11-07T12:12:30.265Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550264-ojrr",
+    "timestamp": "2026-11-07T12:12:30.264Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550263-khdl",
+    "timestamp": "2026-11-07T12:12:30.263Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550262-5897",
+    "timestamp": "2026-11-07T12:12:30.262Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550261-qlal",
+    "timestamp": "2026-11-07T12:12:30.261Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550260-flve",
+    "timestamp": "2026-11-07T12:12:30.260Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550259-yk6n",
+    "timestamp": "2026-11-07T12:12:30.259Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550258-dgnv",
+    "timestamp": "2026-11-07T12:12:30.258Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550257-7sae",
+    "timestamp": "2026-11-07T12:12:30.257Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550255-86l5",
+    "timestamp": "2026-11-07T12:12:30.255Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550254-74kd",
+    "timestamp": "2026-11-07T12:12:30.254Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550253-6ngz",
+    "timestamp": "2026-11-07T12:12:30.253Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550252-hor6",
+    "timestamp": "2026-11-07T12:12:30.252Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550251-1yjq",
+    "timestamp": "2026-11-07T12:12:30.251Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550251-jl3a",
+    "timestamp": "2026-11-07T12:12:30.251Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550250-jvks",
+    "timestamp": "2026-11-07T12:12:30.250Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550249-etsm",
+    "timestamp": "2026-11-07T12:12:30.249Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550248-8xao",
+    "timestamp": "2026-11-07T12:12:30.248Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550247-ol2s",
+    "timestamp": "2026-11-07T12:12:30.247Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550246-zvwa",
+    "timestamp": "2026-11-07T12:12:30.246Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550245-2i0y",
+    "timestamp": "2026-11-07T12:12:30.245Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550244-bwdc",
+    "timestamp": "2026-11-07T12:12:30.244Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550243-xahj",
+    "timestamp": "2026-11-07T12:12:30.243Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550242-sdop",
+    "timestamp": "2026-11-07T12:12:30.242Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550241-i769",
+    "timestamp": "2026-11-07T12:12:30.241Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550240-deg0",
+    "timestamp": "2026-11-07T12:12:30.240Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550239-lg1n",
+    "timestamp": "2026-11-07T12:12:30.239Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550238-vvqp",
+    "timestamp": "2026-11-07T12:12:30.238Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550237-6umh",
+    "timestamp": "2026-11-07T12:12:30.237Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550236-4wja",
+    "timestamp": "2026-11-07T12:12:30.236Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550235-ezvp",
+    "timestamp": "2026-11-07T12:12:30.235Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550234-vgfs",
+    "timestamp": "2026-11-07T12:12:30.234Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550233-t353",
+    "timestamp": "2026-11-07T12:12:30.233Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550232-l961",
+    "timestamp": "2026-11-07T12:12:30.232Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550231-gg1k",
+    "timestamp": "2026-11-07T12:12:30.231Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550230-ufax",
+    "timestamp": "2026-11-07T12:12:30.230Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550229-so2a",
+    "timestamp": "2026-11-07T12:12:30.229Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550228-wrxo",
+    "timestamp": "2026-11-07T12:12:30.228Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550227-mfwo",
+    "timestamp": "2026-11-07T12:12:30.227Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550224-mk4x",
+    "timestamp": "2026-11-07T12:12:30.224Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550223-djtb",
+    "timestamp": "2026-11-07T12:12:30.223Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550222-o0dk",
+    "timestamp": "2026-11-07T12:12:30.222Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550221-swzp",
+    "timestamp": "2026-11-07T12:12:30.221Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550220-w3vq",
+    "timestamp": "2026-11-07T12:12:30.220Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550219-223n",
+    "timestamp": "2026-11-07T12:12:30.219Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550218-nkf4",
+    "timestamp": "2026-11-07T12:12:30.218Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550217-wo1g",
+    "timestamp": "2026-11-07T12:12:30.217Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550216-jdp3",
+    "timestamp": "2026-11-07T12:12:30.216Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550215-3ebh",
+    "timestamp": "2026-11-07T12:12:30.215Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550214-c23x",
+    "timestamp": "2026-11-07T12:12:30.214Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550213-lgzd",
+    "timestamp": "2026-11-07T12:12:30.213Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550211-dpgy",
+    "timestamp": "2026-11-07T12:12:30.211Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550210-yyzd",
+    "timestamp": "2026-11-07T12:12:30.210Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550209-9les",
+    "timestamp": "2026-11-07T12:12:30.209Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550208-r6kp",
+    "timestamp": "2026-11-07T12:12:30.208Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550207-62ev",
+    "timestamp": "2026-11-07T12:12:30.207Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550206-e4hj",
+    "timestamp": "2026-11-07T12:12:30.206Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550204-l3z8",
+    "timestamp": "2026-11-07T12:12:30.204Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550203-10lu",
+    "timestamp": "2026-11-07T12:12:30.203Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550202-adzk",
+    "timestamp": "2026-11-07T12:12:30.202Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550200-u4iz",
+    "timestamp": "2026-11-07T12:12:30.200Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550199-dm7m",
+    "timestamp": "2026-11-07T12:12:30.199Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550198-l5b6",
+    "timestamp": "2026-11-07T12:12:30.198Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550197-el0j",
+    "timestamp": "2026-11-07T12:12:30.197Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550196-zaxv",
+    "timestamp": "2026-11-07T12:12:30.196Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550195-juq9",
+    "timestamp": "2026-11-07T12:12:30.195Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550194-xo1e",
+    "timestamp": "2026-11-07T12:12:30.194Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550193-w9gl",
+    "timestamp": "2026-11-07T12:12:30.193Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550192-vy99",
+    "timestamp": "2026-11-07T12:12:30.192Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550190-9ixn",
+    "timestamp": "2026-11-07T12:12:30.190Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550189-ctmy",
+    "timestamp": "2026-11-07T12:12:30.189Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550187-t513",
+    "timestamp": "2026-11-07T12:12:30.187Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550186-edbm",
+    "timestamp": "2026-11-07T12:12:30.186Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550185-2hxs",
+    "timestamp": "2026-11-07T12:12:30.185Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550184-2vlg",
+    "timestamp": "2026-11-07T12:12:30.184Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550183-9hdk",
+    "timestamp": "2026-11-07T12:12:30.183Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550182-6vuy",
+    "timestamp": "2026-11-07T12:12:30.182Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550181-v877",
+    "timestamp": "2026-11-07T12:12:30.181Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550180-te5a",
+    "timestamp": "2026-11-07T12:12:30.180Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550179-inb4",
+    "timestamp": "2026-11-07T12:12:30.179Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550178-4usc",
+    "timestamp": "2026-11-07T12:12:30.178Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550177-8e2s",
+    "timestamp": "2026-11-07T12:12:30.177Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550176-vshn",
+    "timestamp": "2026-11-07T12:12:30.176Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550175-jo0g",
+    "timestamp": "2026-11-07T12:12:30.175Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550173-w5qo",
+    "timestamp": "2026-11-07T12:12:30.173Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550172-razj",
+    "timestamp": "2026-11-07T12:12:30.172Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550171-8f7z",
+    "timestamp": "2026-11-07T12:12:30.171Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550170-b6sg",
+    "timestamp": "2026-11-07T12:12:30.170Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550169-uydg",
+    "timestamp": "2026-11-07T12:12:30.169Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550168-z0kq",
+    "timestamp": "2026-11-07T12:12:30.168Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550167-334e",
+    "timestamp": "2026-11-07T12:12:30.167Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550166-v2rl",
+    "timestamp": "2026-11-07T12:12:30.166Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550165-yihw",
+    "timestamp": "2026-11-07T12:12:30.165Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550164-mnq6",
+    "timestamp": "2026-11-07T12:12:30.164Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550163-k8yx",
+    "timestamp": "2026-11-07T12:12:30.163Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550162-pml3",
+    "timestamp": "2026-11-07T12:12:30.162Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550160-wah2",
+    "timestamp": "2026-11-07T12:12:30.160Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550159-tuk0",
+    "timestamp": "2026-11-07T12:12:30.159Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550158-fqgz",
+    "timestamp": "2026-11-07T12:12:30.158Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550156-voof",
+    "timestamp": "2026-11-07T12:12:30.156Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550155-bh20",
+    "timestamp": "2026-11-07T12:12:30.155Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550154-hljz",
+    "timestamp": "2026-11-07T12:12:30.154Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550153-49s1",
+    "timestamp": "2026-11-07T12:12:30.153Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550152-mj7y",
+    "timestamp": "2026-11-07T12:12:30.152Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550151-g0rb",
+    "timestamp": "2026-11-07T12:12:30.151Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550150-hgp0",
+    "timestamp": "2026-11-07T12:12:30.150Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550149-we62",
+    "timestamp": "2026-11-07T12:12:30.149Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550148-q80w",
+    "timestamp": "2026-11-07T12:12:30.149Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550148-gg88",
+    "timestamp": "2026-11-07T12:12:30.148Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550147-ejlk",
+    "timestamp": "2026-11-07T12:12:30.147Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550146-vutu",
+    "timestamp": "2026-11-07T12:12:30.146Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550145-dw4q",
+    "timestamp": "2026-11-07T12:12:30.145Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550144-4tlr",
+    "timestamp": "2026-11-07T12:12:30.144Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550143-5d0u",
+    "timestamp": "2026-11-07T12:12:30.143Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550142-yscd",
+    "timestamp": "2026-11-07T12:12:30.142Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550141-vu3j",
+    "timestamp": "2026-11-07T12:12:30.141Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550140-7dcu",
+    "timestamp": "2026-11-07T12:12:30.140Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550139-fr59",
+    "timestamp": "2026-11-07T12:12:30.139Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550138-1nd7",
+    "timestamp": "2026-11-07T12:12:30.138Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550137-xms5",
+    "timestamp": "2026-11-07T12:12:30.137Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550136-jo79",
+    "timestamp": "2026-11-07T12:12:30.136Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550135-sdqn",
+    "timestamp": "2026-11-07T12:12:30.135Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550134-7nc7",
+    "timestamp": "2026-11-07T12:12:30.134Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550132-l6r1",
+    "timestamp": "2026-11-07T12:12:30.133Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550131-b2yi",
+    "timestamp": "2026-11-07T12:12:30.132Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550130-2ek1",
+    "timestamp": "2026-11-07T12:12:30.131Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550129-xfa0",
+    "timestamp": "2026-11-07T12:12:30.129Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550128-bwcu",
+    "timestamp": "2026-11-07T12:12:30.128Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550127-gj3y",
+    "timestamp": "2026-11-07T12:12:30.127Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550127-fba9",
+    "timestamp": "2026-11-07T12:12:30.127Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550126-js95",
+    "timestamp": "2026-11-07T12:12:30.126Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550125-epls",
+    "timestamp": "2026-11-07T12:12:30.125Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550124-m9je",
+    "timestamp": "2026-11-07T12:12:30.124Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550122-hoe2",
+    "timestamp": "2026-11-07T12:12:30.122Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550121-o197",
+    "timestamp": "2026-11-07T12:12:30.121Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550120-ggcv",
+    "timestamp": "2026-11-07T12:12:30.120Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550119-hnf7",
+    "timestamp": "2026-11-07T12:12:30.119Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550118-ul1s",
+    "timestamp": "2026-11-07T12:12:30.118Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550114-5s23",
+    "timestamp": "2026-11-07T12:12:30.114Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550113-pezt",
+    "timestamp": "2026-11-07T12:12:30.113Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550112-4q0p",
+    "timestamp": "2026-11-07T12:12:30.112Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550111-shnk",
+    "timestamp": "2026-11-07T12:12:30.111Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550110-861n",
+    "timestamp": "2026-11-07T12:12:30.110Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550109-4nz0",
+    "timestamp": "2026-11-07T12:12:30.109Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550108-h5bl",
+    "timestamp": "2026-11-07T12:12:30.108Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550107-l606",
+    "timestamp": "2026-11-07T12:12:30.107Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550106-wpod",
+    "timestamp": "2026-11-07T12:12:30.106Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550105-ec8v",
+    "timestamp": "2026-11-07T12:12:30.105Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550104-5p2r",
+    "timestamp": "2026-11-07T12:12:30.104Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550103-ha6c",
+    "timestamp": "2026-11-07T12:12:30.103Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550102-611l",
+    "timestamp": "2026-11-07T12:12:30.102Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550101-96v3",
+    "timestamp": "2026-11-07T12:12:30.101Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550100-o1hz",
+    "timestamp": "2026-11-07T12:12:30.100Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550099-d9ao",
+    "timestamp": "2026-11-07T12:12:30.099Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550098-0ip6",
+    "timestamp": "2026-11-07T12:12:30.098Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550097-jhof",
+    "timestamp": "2026-11-07T12:12:30.097Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550096-9l1k",
+    "timestamp": "2026-11-07T12:12:30.096Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550095-5b03",
+    "timestamp": "2026-11-07T12:12:30.095Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550094-jrg3",
+    "timestamp": "2026-11-07T12:12:30.094Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550093-p7kl",
+    "timestamp": "2026-11-07T12:12:30.093Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550092-5rrw",
+    "timestamp": "2026-11-07T12:12:30.092Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550091-9b1w",
+    "timestamp": "2026-11-07T12:12:30.091Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550090-ytcg",
+    "timestamp": "2026-11-07T12:12:30.090Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550089-gdzb",
+    "timestamp": "2026-11-07T12:12:30.089Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550088-czd7",
+    "timestamp": "2026-11-07T12:12:30.088Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550087-zzgr",
+    "timestamp": "2026-11-07T12:12:30.087Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550085-jl17",
+    "timestamp": "2026-11-07T12:12:30.085Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550084-61ky",
+    "timestamp": "2026-11-07T12:12:30.084Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550083-xli4",
+    "timestamp": "2026-11-07T12:12:30.083Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550082-q2ex",
+    "timestamp": "2026-11-07T12:12:30.082Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550080-50z5",
+    "timestamp": "2026-11-07T12:12:30.080Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550079-stco",
+    "timestamp": "2026-11-07T12:12:30.079Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550078-fpvl",
+    "timestamp": "2026-11-07T12:12:30.078Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550076-a2rq",
+    "timestamp": "2026-11-07T12:12:30.076Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550075-tg3g",
+    "timestamp": "2026-11-07T12:12:30.075Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550074-1p5b",
+    "timestamp": "2026-11-07T12:12:30.074Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550072-qsh8",
+    "timestamp": "2026-11-07T12:12:30.072Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550070-wqsf",
+    "timestamp": "2026-11-07T12:12:30.070Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550069-tc48",
+    "timestamp": "2026-11-07T12:12:30.069Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550067-clgj",
+    "timestamp": "2026-11-07T12:12:30.067Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550066-y5kr",
+    "timestamp": "2026-11-07T12:12:30.066Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550065-p5vo",
+    "timestamp": "2026-11-07T12:12:30.065Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550063-fjxv",
+    "timestamp": "2026-11-07T12:12:30.063Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550062-ppvw",
+    "timestamp": "2026-11-07T12:12:30.062Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550060-hmu3",
+    "timestamp": "2026-11-07T12:12:30.060Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550059-lup7",
+    "timestamp": "2026-11-07T12:12:30.059Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550058-1nta",
+    "timestamp": "2026-11-07T12:12:30.058Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550056-a9lw",
+    "timestamp": "2026-11-07T12:12:30.056Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550055-8xmt",
+    "timestamp": "2026-11-07T12:12:30.055Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550054-f14p",
+    "timestamp": "2026-11-07T12:12:30.054Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550053-69ji",
+    "timestamp": "2026-11-07T12:12:30.053Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550052-bbol",
+    "timestamp": "2026-11-07T12:12:30.052Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550051-kr3l",
+    "timestamp": "2026-11-07T12:12:30.051Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550050-26cn",
+    "timestamp": "2026-11-07T12:12:30.050Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550049-6vp8",
+    "timestamp": "2026-11-07T12:12:30.049Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550047-wzim",
+    "timestamp": "2026-11-07T12:12:30.047Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550046-kzxu",
+    "timestamp": "2026-11-07T12:12:30.046Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550046-6510",
+    "timestamp": "2026-11-07T12:12:30.046Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550045-hmxm",
+    "timestamp": "2026-11-07T12:12:30.045Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550044-1c9e",
+    "timestamp": "2026-11-07T12:12:30.044Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550043-k8mu",
+    "timestamp": "2026-11-07T12:12:30.043Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550042-eoi7",
+    "timestamp": "2026-11-07T12:12:30.042Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550039-3sj9",
+    "timestamp": "2026-11-07T12:12:30.039Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550038-q02b",
+    "timestamp": "2026-11-07T12:12:30.038Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550037-tpie",
+    "timestamp": "2026-11-07T12:12:30.037Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550036-lkac",
+    "timestamp": "2026-11-07T12:12:30.036Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550035-pfn4",
+    "timestamp": "2026-11-07T12:12:30.035Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550033-k18j",
+    "timestamp": "2026-11-07T12:12:30.033Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550032-77zo",
+    "timestamp": "2026-11-07T12:12:30.032Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550030-5na7",
+    "timestamp": "2026-11-07T12:12:30.030Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550029-ygzr",
+    "timestamp": "2026-11-07T12:12:30.029Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550027-87lf",
+    "timestamp": "2026-11-07T12:12:30.027Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550026-us5k",
+    "timestamp": "2026-11-07T12:12:30.026Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550025-r0lf",
+    "timestamp": "2026-11-07T12:12:30.025Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550024-ee1p",
+    "timestamp": "2026-11-07T12:12:30.024Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550023-4o5i",
+    "timestamp": "2026-11-07T12:12:30.023Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550021-z5in",
+    "timestamp": "2026-11-07T12:12:30.021Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550019-0b6s",
+    "timestamp": "2026-11-07T12:12:30.019Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550018-jhjs",
+    "timestamp": "2026-11-07T12:12:30.018Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550014-8xc2",
+    "timestamp": "2026-11-07T12:12:30.014Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550013-k3a5",
+    "timestamp": "2026-11-07T12:12:30.013Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550012-978l",
+    "timestamp": "2026-11-07T12:12:30.012Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550011-p5bd",
+    "timestamp": "2026-11-07T12:12:30.011Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550010-xme2",
+    "timestamp": "2026-11-07T12:12:30.010Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550009-qgqm",
+    "timestamp": "2026-11-07T12:12:30.009Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550004-0f34",
+    "timestamp": "2026-11-07T12:12:30.004Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550003-2d5e",
+    "timestamp": "2026-11-07T12:12:30.003Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550002-3tn5",
+    "timestamp": "2026-11-07T12:12:30.002Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053550000-xv9f",
+    "timestamp": "2026-11-07T12:12:30.000Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  },
+  {
+    "id": "audit-1794053549998-q3u2",
+    "timestamp": "2026-11-07T12:12:29.998Z",
+    "agentId": "orchestrator",
+    "action": "Multi-Agent Subsystem Initialized",
+    "details": "Registered Lead Research, Lead Qualification, Sales Strategy, and CRM Management agents with full backend tool authorization.",
+    "level": "info"
+  }
+]
