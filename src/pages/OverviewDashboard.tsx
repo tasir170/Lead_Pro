@@ -22,6 +22,7 @@ import { Button } from '../components/common/Button';
 import { StatusBadge, TierBadge } from '../components/common/Badge';
 import { CardSkeleton } from '../components/common/Skeleton';
 import { ErrorBanner } from '../components/common/ErrorBanner';
+import { MotionFlowGraphic } from '../components/common/MotionFlowGraphic';
 import { Lead, PipelineSummary, AcquisitionDataPoint, QualityBreakdown, NavigationItemKey } from '../types';
 
 interface OverviewDashboardProps {
@@ -200,6 +201,16 @@ export const OverviewDashboard: React.FC<OverviewDashboardProps> = ({
           </div>
         )}
       </section>
+
+      {/* Autonomous Revenue Motion Engine Graphic */}
+      <MotionFlowGraphic
+        totalLeads={summary?.totalLeads ?? leads.length}
+        qualifiedCount={summary?.qualifiedLeads ?? leads.filter((l) => l.leadStatus === 'Qualified').length}
+        convertedCount={summary?.convertedLeads ?? leads.filter((l) => l.leadStatus === 'Converted').length}
+        avgScore={summary?.avgAiScore ?? 84}
+        onExploreLeads={() => onNavigate('all-leads')}
+        onLaunchAgents={() => onNavigate('ai-agents')}
+      />
 
       {/* AI Recommendation Panel */}
       <AIRecommendationPanel

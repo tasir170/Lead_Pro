@@ -1,4 +1,5 @@
 import React from 'react';
+import { motion } from 'motion/react';
 import { TrendingUp, TrendingDown, Minus } from 'lucide-react';
 
 export interface MetricCardProps {
@@ -21,9 +22,11 @@ export const MetricCard: React.FC<MetricCardProps> = ({
   onClick,
 }) => {
   return (
-    <div
+    <motion.div
       onClick={onClick}
-      className={`bg-white rounded-xl border border-slate-200 p-5 shadow-xs transition-all hover:border-slate-300 ${
+      whileHover={onClick ? { y: -3, transition: { duration: 0.15, ease: 'easeOut' } } : undefined}
+      whileTap={onClick ? { scale: 0.98 } : undefined}
+      className={`bg-white rounded-xl border border-slate-200 p-5 shadow-xs transition-colors hover:border-slate-300 ${
         onClick ? 'cursor-pointer hover:shadow-sm' : ''
       }`}
     >
@@ -56,6 +59,7 @@ export const MetricCard: React.FC<MetricCardProps> = ({
       </div>
 
       {subtitle && <p className="mt-1 text-xs text-slate-500">{subtitle}</p>}
-    </div>
+    </motion.div>
   );
 };
+

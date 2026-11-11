@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
+import { motion, AnimatePresence } from 'motion/react';
 import {
   Bot,
   Sparkles,
@@ -254,49 +255,35 @@ export const AIAgentsManagement: React.FC<AIAgentsManagementProps> = ({
 
         {/* Global Navigation Tabs */}
         <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-xl border border-slate-200">
-          <button
-            onClick={() => setActiveTab('orchestrator')}
-            className={`px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
-              activeTab === 'orchestrator'
-                ? 'bg-white text-blue-600 shadow-xs'
-                : 'text-slate-600 hover:text-slate-900'
-            }`}
-          >
-            Central Orchestrator
-          </button>
-          <button
-            onClick={() => setActiveTab('agents')}
-            className={`px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
-              activeTab === 'agents'
-                ? 'bg-white text-blue-600 shadow-xs'
-                : 'text-slate-600 hover:text-slate-900'
-            }`}
-          >
-            Specialized Agents ({agents.length})
-          </button>
-          <button
-            onClick={() => setActiveTab('history')}
-            className={`px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
-              activeTab === 'history'
-                ? 'bg-white text-blue-600 shadow-xs'
-                : 'text-slate-600 hover:text-slate-900'
-            }`}
-          >
-            Task History ({taskHistory.length})
-          </button>
-          <button
-            onClick={() => {
-              setActiveTab('audit');
-              loadAuditLogs();
-            }}
-            className={`px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
-              activeTab === 'audit'
-                ? 'bg-white text-blue-600 shadow-xs'
-                : 'text-slate-600 hover:text-slate-900'
-            }`}
-          >
-            Audit Logs
-          </button>
+          {[
+            { key: 'orchestrator', label: 'Central Orchestrator' },
+            { key: 'agents', label: `Specialized Agents (${agents.length})` },
+            { key: 'history', label: `Task History (${taskHistory.length})` },
+            { key: 'audit', label: 'Audit Logs' },
+          ].map((tab) => {
+            const isActive = activeTab === tab.key;
+            return (
+              <button
+                key={tab.key}
+                onClick={() => {
+                  setActiveTab(tab.key as any);
+                  if (tab.key === 'audit') loadAuditLogs();
+                }}
+                className={`relative px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-colors cursor-pointer ${
+                  isActive ? 'text-blue-600' : 'text-slate-600 hover:text-slate-900'
+                }`}
+              >
+                {isActive && (
+                  <motion.div
+                    layoutId="active-agent-tab"
+                    transition={{ type: 'spring', stiffness: 450, damping: 35 }}
+                    className="absolute inset-0 bg-white rounded-lg shadow-xs -z-0"
+                  />
+                )}
+                <span className="relative z-10">{tab.label}</span>
+              </button>
+            );
+          })}
         </div>
       </div>
 

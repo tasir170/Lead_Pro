@@ -1,4 +1,5 @@
 import React from 'react';
+import { motion } from 'motion/react';
 import {
   LayoutDashboard,
   Search,
@@ -161,16 +162,25 @@ export const Sidebar: React.FC<SidebarProps> = ({
                 key={item.key}
                 onClick={() => handleItemClick(item.key)}
                 title={isCollapsed ? item.label : undefined}
-                className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-all group relative cursor-pointer
+                className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-colors group relative cursor-pointer
                   ${
                     isActive
-                      ? 'bg-blue-600 text-white shadow-sm shadow-blue-600/30 font-semibold'
-                      : 'text-slate-400 hover:text-slate-100 hover:bg-slate-800/50'
+                      ? 'text-white font-semibold'
+                      : 'text-slate-400 hover:text-slate-100 hover:bg-slate-800/40'
                   }
                   ${isCollapsed ? 'justify-center' : 'justify-between'}
                 `}
               >
-                <div className="flex items-center gap-3 min-w-0">
+                {/* Smooth Animated Active Background Pill */}
+                {isActive && (
+                  <motion.div
+                    layoutId="active-sidebar-pill"
+                    transition={{ type: 'spring', stiffness: 450, damping: 35 }}
+                    className="absolute inset-0 bg-blue-600 rounded-lg shadow-md shadow-blue-600/30 -z-0"
+                  />
+                )}
+
+                <div className="relative z-10 flex items-center gap-3 min-w-0">
                   <span className={`${isActive ? 'text-white' : 'text-slate-400 group-hover:text-slate-200'}`}>
                     {item.icon}
                   </span>
@@ -178,7 +188,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                 </div>
                 {!isCollapsed && item.badge !== undefined && (
                   <span
-                    className={`text-[10px] px-1.5 py-0.5 rounded font-mono font-medium shrink-0
+                    className={`relative z-10 text-[10px] px-1.5 py-0.5 rounded font-mono font-medium shrink-0
                       ${
                         isActive
                           ? 'bg-white/20 text-white'

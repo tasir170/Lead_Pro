@@ -1,4 +1,5 @@
 import React from 'react';
+import { motion } from 'motion/react';
 import { PipelineSummary } from '../../types';
 
 interface ConversionFunnelChartProps {
@@ -42,7 +43,7 @@ export const ConversionFunnelChart: React.FC<ConversionFunnelChartProps> = ({ su
   return (
     <div className="space-y-4">
       <div className="space-y-3">
-        {stages.map((stage) => (
+        {stages.map((stage, idx) => (
           <div key={stage.label} className="space-y-1.5">
             <div className="flex items-center justify-between text-xs">
               <span className="font-semibold text-slate-800">{stage.label}</span>
@@ -53,9 +54,11 @@ export const ConversionFunnelChart: React.FC<ConversionFunnelChartProps> = ({ su
             </div>
 
             <div className="h-2.5 w-full bg-slate-100 rounded-full overflow-hidden">
-              <div
-                style={{ width: `${Math.max(stage.percentage, 4)}%` }}
-                className={`h-full ${stage.color} rounded-full transition-all duration-500`}
+              <motion.div
+                initial={{ width: 0 }}
+                animate={{ width: `${Math.max(stage.percentage, 4)}%` }}
+                transition={{ duration: 0.8, delay: idx * 0.12, ease: [0.16, 1, 0.3, 1] }}
+                className={`h-full ${stage.color} rounded-full`}
               />
             </div>
             <p className="text-[11px] text-slate-400">{stage.description}</p>

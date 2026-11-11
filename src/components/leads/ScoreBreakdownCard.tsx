@@ -1,4 +1,5 @@
 import React from 'react';
+import { motion } from 'motion/react';
 import {
   Sparkles,
   Flame,
@@ -106,10 +107,35 @@ export const ScoreBreakdownCard: React.FC<ScoreBreakdownCardProps> = ({
       <div className="p-4 sm:p-5 rounded-xl bg-gradient-to-br from-slate-900 via-slate-800 to-indigo-950 text-white shadow-sm space-y-4">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div className="flex items-center gap-3.5">
-            {/* Visual Circular/Gauge Indicator */}
-            <div className="relative w-14 h-14 rounded-full flex items-center justify-center bg-white/10 ring-2 ring-white/20 shrink-0">
-              <span className="text-xl font-bold font-mono tabular-nums text-white">{score}</span>
-              <span className="text-[9px] text-slate-300 absolute -bottom-1 bg-slate-900 px-1 rounded font-mono">/100</span>
+            {/* Visual Animated Circular SVG Gauge Indicator */}
+            <div className="relative w-14 h-14 flex items-center justify-center shrink-0">
+              <svg className="w-14 h-14 -rotate-90" viewBox="0 0 56 56">
+                <circle
+                  cx="28"
+                  cy="28"
+                  r="23"
+                  stroke="rgba(255,255,255,0.15)"
+                  strokeWidth="4"
+                  fill="none"
+                />
+                <motion.circle
+                  cx="28"
+                  cy="28"
+                  r="23"
+                  stroke={score >= 80 ? '#10b981' : score >= 60 ? '#f59e0b' : score >= 40 ? '#3b82f6' : '#94a3b8'}
+                  strokeWidth="4"
+                  strokeDasharray={144.5}
+                  initial={{ strokeDashoffset: 144.5 }}
+                  animate={{ strokeDashoffset: 144.5 - (144.5 * Math.min(100, score)) / 100 }}
+                  transition={{ duration: 1.1, ease: [0.16, 1, 0.3, 1] }}
+                  strokeLinecap="round"
+                  fill="none"
+                />
+              </svg>
+              <div className="absolute inset-0 flex flex-col items-center justify-center">
+                <span className="text-base font-bold font-mono tabular-nums text-white leading-none">{score}</span>
+                <span className="text-[8px] text-slate-300 font-mono mt-0.5">/100</span>
+              </div>
             </div>
 
             <div>
@@ -201,9 +227,11 @@ export const ScoreBreakdownCard: React.FC<ScoreBreakdownCardProps> = ({
 
                 {/* Progress bar */}
                 <div className="w-full h-1.5 bg-slate-200 rounded-full overflow-hidden">
-                  <div
-                    className={`h-full ${barColor} rounded-full transition-all duration-500`}
-                    style={{ width: `${Math.min(100, Math.max(5, percentage))}%` }}
+                  <motion.div
+                    className={`h-full ${barColor} rounded-full`}
+                    initial={{ width: 0 }}
+                    animate={{ width: `${Math.min(100, Math.max(5, percentage))}%` }}
+                    transition={{ duration: 0.6, delay: idx * 0.06, ease: 'easeOut' }}
                   />
                 </div>
 

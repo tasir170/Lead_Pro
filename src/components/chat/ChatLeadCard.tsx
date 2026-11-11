@@ -1,4 +1,5 @@
 import React from 'react';
+import { motion } from 'motion/react';
 import {
   Building2,
   Mail,
@@ -24,7 +25,10 @@ export const ChatLeadCard: React.FC<ChatLeadCardProps> = ({
   onOutreach,
 }) => {
   return (
-    <div className="p-3.5 rounded-xl border border-slate-200 bg-white hover:border-blue-400 hover:shadow-xs transition-all flex flex-col justify-between text-left group">
+    <motion.div
+      whileHover={{ y: -2, transition: { duration: 0.15 } }}
+      className="p-3.5 rounded-xl border border-slate-200 bg-white hover:border-blue-400 hover:shadow-xs transition-colors flex flex-col justify-between text-left group"
+    >
       <div>
         {/* Header row */}
         <div className="flex items-start justify-between gap-2 mb-1.5">
@@ -102,6 +106,6 @@ export const ChatLeadCard: React.FC<ChatLeadCardProps> = ({
           )}
         </div>
       </div>
-    </div>
+    </motion.div>
   );
 };

@@ -4,6 +4,7 @@
  */
 
 import { useState, useEffect, useCallback } from 'react';
+import { motion, AnimatePresence } from 'motion/react';
 import { Sidebar } from './components/layout/Sidebar';
 import { Header } from './components/layout/Header';
 import { OverviewDashboard } from './pages/OverviewDashboard';
@@ -285,120 +286,139 @@ export default function App() {
 
         {/* Viewport Content */}
         <main className="flex-1 overflow-y-auto">
-          {currentView === 'overview' && (
-            <OverviewDashboard
-              summary={summary}
-              acquisition={acquisition}
-              quality={quality}
-              leads={leads}
-              isLoading={isLoading}
-              error={error}
-              onRetry={loadData}
-              onSelectLead={setSelectedLeadForDetail}
-              onNavigate={setCurrentView}
-              onOpenAddLead={() => setIsAddLeadOpen(true)}
-              onAnalyzeAllUnscored={() => handleBulkAnalyzeLeads(leads.map((l) => l.id))}
-              isAnalyzing={isAnalyzingLeads}
-            />
-          )}
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={currentView}
+              initial={{ opacity: 0, y: 6 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -4 }}
+              transition={{ duration: 0.16, ease: [0.16, 1, 0.3, 1] }}
+              className="min-h-full"
+            >
+              {currentView === 'overview' && (
+                <OverviewDashboard
+                  summary={summary}
+                  acquisition={acquisition}
+                  quality={quality}
+                  leads={leads}
+                  isLoading={isLoading}
+                  error={error}
+                  onRetry={loadData}
+                  onSelectLead={setSelectedLeadForDetail}
+                  onNavigate={setCurrentView}
+                  onOpenAddLead={() => setIsAddLeadOpen(true)}
+                  onAnalyzeAllUnscored={() => handleBulkAnalyzeLeads(leads.map((l) => l.id))}
+                  isAnalyzing={isAnalyzingLeads}
+                />
+              )}
 
-          {currentView === 'find-leads' && (
-            <FindLeads
-              onImportLead={handleCreateLead}
-              existingLeads={leads}
-              onOpenAddLeadModal={() => setIsAddLeadOpen(true)}
-              onLeadAddedToCrm={loadData}
-            />
-          )}
+              {currentView === 'find-leads' && (
+                <FindLeads
+                  onImportLead={handleCreateLead}
+                  existingLeads={leads}
+                  onOpenAddLeadModal={() => setIsAddLeadOpen(true)}
+                  onLeadAddedToCrm={loadData}
+                />
+              )}
 
-          {currentView === 'all-leads' && (
-            <AllLeads
-              leads={leads}
-              isLoading={isLoading}
-              onSelectLead={setSelectedLeadForDetail}
-              onOpenAddLeadModal={() => setIsAddLeadOpen(true)}
-              onOpenEditLeadModal={handleOpenEditLead}
-              onDeleteLead={handleDeleteLead}
-              onBulkUpdateStatus={handleBulkUpdateStatus}
-              onBulkAssignSalesperson={handleBulkAssignSalesperson}
-              onBulkDeleteLeads={handleBulkDeleteLeads}
-              onAnalyzeLead={handleAnalyzeLead}
-              onBulkAnalyzeLeads={handleBulkAnalyzeLeads}
-              onNavigateToOutreach={handleNavigateToOutreach}
-            />
-          )}
+              {currentView === 'all-leads' && (
+                <AllLeads
+                  leads={leads}
+                  isLoading={isLoading}
+                  onSelectLead={setSelectedLeadForDetail}
+                  onOpenAddLeadModal={() => setIsAddLeadOpen(true)}
+                  onOpenEditLeadModal={handleOpenEditLead}
+                  onDeleteLead={handleDeleteLead}
+                  onBulkUpdateStatus={handleBulkUpdateStatus}
+                  onBulkAssignSalesperson={handleBulkAssignSalesperson}
+                  onBulkDeleteLeads={handleBulkDeleteLeads}
+                  onAnalyzeLead={handleAnalyzeLead}
+                  onBulkAnalyzeLeads={handleBulkAnalyzeLeads}
+                  onNavigateToOutreach={handleNavigateToOutreach}
+                />
+              )}
 
-          {currentView === 'ai-agents' && (
-            <AIAgentsManagement
-              onNavigateToLeads={() => setCurrentView('all-leads')}
-              onSelectLeadForDetail={(id) => {
-                const found = leads.find((l) => l.id === id);
-                if (found) setSelectedLeadForDetail(found);
-              }}
-            />
-          )}
+              {currentView === 'ai-agents' && (
+                <AIAgentsManagement
+                  onNavigateToLeads={() => setCurrentView('all-leads')}
+                  onSelectLeadForDetail={(id) => {
+                    const found = leads.find((l) => l.id === id);
+                    if (found) setSelectedLeadForDetail(found);
+                  }}
+                />
+              )}
 
-          {currentView === 'ai-research' && (
-            <AIResearchAgent
-              onRunResearch={(companyName, domain): Promise<CompanyResearchDossier> =>
-                api.runCompanyResearch({ companyName, domain })
-              }
-              onImportFromResearch={handleCreateLead}
-            />
-          )}
+              {currentView === 'ai-research' && (
+                <AIResearchAgent
+                  onRunResearch={(companyName, domain): Promise<CompanyResearchDossier> =>
+                    api.runCompanyResearch({ companyName, domain })
+                  }
+                  onImportFromResearch={handleCreateLead}
+                />
+              )}
 
-          {currentView === 'ai-assistant' && (
-            <AISalesAssistant
-              leads={leads}
-              preselectedLead={preselectedOutreachLead}
-              onGenerateOutreach={(lead, channel, goal) =>
-                api.generateOutreach({ lead, channel, goal })
-              }
-              onUpdateLeadStatus={handleUpdateLeadStatus}
-              onSelectLead={(lead) => setSelectedLeadForDetail(lead)}
-              onNavigateToOutreach={handleNavigateToOutreach}
-            />
-          )}
+              {currentView === 'ai-assistant' && (
+                <AISalesAssistant
+                  leads={leads}
+                  preselectedLead={preselectedOutreachLead}
+                  onGenerateOutreach={(lead, channel, goal) =>
+                    api.generateOutreach({ lead, channel, goal })
+                  }
+                  onUpdateLeadStatus={handleUpdateLeadStatus}
+                  onSelectLead={(lead) => setSelectedLeadForDetail(lead)}
+                  onNavigateToOutreach={handleNavigateToOutreach}
+                />
+              )}
 
-          {currentView === 'whatsapp-outreach' && (
-            <WhatsAppOutreach
-              leads={leads}
-              preselectedLead={preselectedOutreachLead}
-              onUpdateStatus={handleUpdateLeadStatus}
-              onSelectLeadForDetail={setSelectedLeadForDetail}
-              onNavigateToAssistant={() => setCurrentView('ai-assistant')}
-            />
-          )}
+              {currentView === 'whatsapp-outreach' && (
+                <WhatsAppOutreach
+                  leads={leads}
+                  preselectedLead={preselectedOutreachLead}
+                  onUpdateStatus={handleUpdateLeadStatus}
+                  onSelectLeadForDetail={setSelectedLeadForDetail}
+                  onNavigateToAssistant={() => setCurrentView('ai-assistant')}
+                />
+              )}
 
-          {currentView === 'follow-ups' && (
-            <FollowUps
-              leads={leads}
-              onSelectLead={setSelectedLeadForDetail}
-              onNavigateToOutreach={handleNavigateToOutreach}
-            />
-          )}
+              {currentView === 'follow-ups' && (
+                <FollowUps
+                  leads={leads}
+                  onSelectLead={setSelectedLeadForDetail}
+                  onNavigateToOutreach={handleNavigateToOutreach}
+                />
+              )}
 
-          {currentView === 'analytics' && (
-            <AnalyticsPage
-              summary={summary}
-              acquisition={acquisition}
-              quality={quality}
-              leads={leads}
-              onSelectLeadForDetail={setSelectedLeadForDetail}
-              onNavigateToLeads={() => setCurrentView('all-leads')}
-            />
-          )}
+              {currentView === 'analytics' && (
+                <AnalyticsPage
+                  summary={summary}
+                  acquisition={acquisition}
+                  quality={quality}
+                  leads={leads}
+                  onSelectLeadForDetail={setSelectedLeadForDetail}
+                  onNavigateToLeads={() => setCurrentView('all-leads')}
+                />
+              )}
 
-          {currentView === 'settings' && <SettingsPage />}
+              {currentView === 'settings' && <SettingsPage />}
+            </motion.div>
+          </AnimatePresence>
         </main>
       </div>
 
       {/* Floating Notification Toast */}
-      {toastMessage && (
-        <div className="fixed bottom-5 right-5 z-50 bg-slate-900 text-white text-xs px-4 py-2.5 rounded-lg shadow-lg border border-slate-700 animate-fade-in flex items-center gap-2">
-          <span>{toastMessage}</span>
-        </div>
-      )}
+      <AnimatePresence>
+        {toastMessage && (
+          <motion.div
+            initial={{ opacity: 0, y: 16, scale: 0.95 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, y: 12, scale: 0.95 }}
+            transition={{ type: 'spring', damping: 25, stiffness: 350 }}
+            className="fixed bottom-5 right-5 z-50 bg-slate-900 text-white text-xs px-4 py-2.5 rounded-lg shadow-xl border border-slate-700 flex items-center gap-2"
+          >
+            <span>{toastMessage}</span>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Modals */}
       <AddLeadModal
